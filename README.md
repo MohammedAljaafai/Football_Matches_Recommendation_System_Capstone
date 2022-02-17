@@ -24,3 +24,7 @@ Key to results data:
 - Referee = Referee Name
 - Match Report = A report for the match (If there are important information. For examplem a team forfeit from a game)
 - Notes = Notes
+
+### **Data Source:**
+All of the datasets were collected from this website:
+https://fbref.com/en/comps/70/Saudi-Professional-League-Stats
