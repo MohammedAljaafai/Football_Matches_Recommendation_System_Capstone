@@ -4,7 +4,7 @@ This system receives inputs from the user, and these inputs are today’s matche
 ## **Football Mathces Datasets**
 
 ### **Data Description:**
-- These datasets include the football matches results of the last 10 seasons plus the current season. 
+- These datasets include the football matches results of the last 10 seasons (Starting from 2012 and Ending with 2021) plus the current season(Until February). 
 - These results are for the English, German, Spanish, Italic, French, Portuguese, Dutch, and Saudi leagues
 
 ### **Data Dictionary:**
