@@ -1,6 +1,6 @@
 # Football_Matches_Recommendation_System_Capstone
-This system receives inputs from the user, and these inputs are today’s matches for the English, German, Spanish, Italic, French, Portuguese, Dutch , and Saudi leagues. The output will be which match is extremely recommended, recommended, or not recommended. (A capstone project)
-
+This system receives inputs from the user, and these inputs are the today's date and gives a list of the matches in that date from the following leagues, the English, German, Spanish, Italic, French, Portuguese, Dutch , and Saudi leagues. The other input the prefered game for the user from this list. The output will be football mathces that are arrnged based on distance (Similarity) from the prefered game. (A capstone project).
+The Recommender system will recommend 6 games with an order from the closest distance the the furthest distance.
 ## **Football Mathces Datasets**
 
 ### **Data Description:**
@@ -28,3 +28,7 @@ Key to results data:
 ### **Data Source:**
 All of the datasets were collected from this website:
 https://fbref.com/en/comps/70/Saudi-Professional-League-Stats
+### **Other Resurces:**
+https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
+https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbor-algorithms
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
