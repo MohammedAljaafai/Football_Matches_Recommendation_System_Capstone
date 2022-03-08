@@ -1,0 +1,889 @@
+,League,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,Year,Month,Day_n,Game
+0,SP,21,Fri,2022-01-21,,Barcelona,,Rayo Vallecano,,Camp Nou,,,Match Postponed,2022,01,21,Barcelona vs Rayo Vallecano
+1,SP,25,Fri,2022-02-18,21:00 (23:00),Elche,,Rayo Vallecano,,Estadio Manuel Martínez Valero,,Head-to-Head,,2022,02,18,Elche vs Rayo Vallecano
+2,SP,25,Sat,2022-02-19,14:00 (16:00),Granada,,Villarreal,,Estadio Nuevo Los Cármenes,,Head-to-Head,,2022,02,19,Granada vs Villarreal
+3,SP,25,Sat,2022-02-19,16:15 (18:15),Osasuna,,Atlético Madrid,,Estadio El Sadar,,Head-to-Head,,2022,02,19,Osasuna vs Atlético Madrid
+4,SP,25,Sat,2022-02-19,18:30 (20:30),Cádiz,,Getafe,,Estadio Nuevo Mirandilla,,Head-to-Head,,2022,02,19,Cádiz vs Getafe
+5,SP,25,Sat,2022-02-19,21:00 (23:00),Real Madrid,,Alavés,,Estadio Santiago Bernabéu,,Head-to-Head,,2022,02,19,Real Madrid vs Alavés
+6,SP,25,Sun,2022-02-20,14:00 (16:00),Espanyol,,Sevilla,,RCDE Stadium,,Head-to-Head,,2022,02,20,Espanyol vs Sevilla
+7,SP,25,Sun,2022-02-20,16:15 (18:15),Valencia,,Barcelona,,Estadio de Mestalla,,Head-to-Head,,2022,02,20,Valencia vs Barcelona
+8,SP,25,Sun,2022-02-20,18:30 (20:30),Betis,,Mallorca,,Estadio Benito Villamarín,,Head-to-Head,,2022,02,20,Betis vs Mallorca
+9,SP,25,Sun,2022-02-20,21:00 (23:00),Athletic Club,,Real Sociedad,,San Mamés,,Head-to-Head,,2022,02,20,Athletic Club vs Real Sociedad
+10,SP,25,Mon,2022-02-21,21:00 (23:00),Celta Vigo,,Levante,,Estadio de Balaídos,,Head-to-Head,,2022,02,21,Celta Vigo vs Levante
+11,SP,26,Fri,2022-02-25,21:00 (23:00),Mallorca,,Valencia,,Iberostar Estadi,,Head-to-Head,,2022,02,25,Mallorca vs Valencia
+12,SP,26,Sat,2022-02-26,14:00 (16:00),Levante,,Elche,,Estadio Ciudad de Valencia,,Head-to-Head,,2022,02,26,Levante vs Elche
+13,SP,26,Sat,2022-02-26,16:15 (18:15),Getafe,,Alavés,,Coliseum Alfonso Pérez,,Head-to-Head,,2022,02,26,Getafe vs Alavés
+14,SP,26,Sat,2022-02-26,18:30 (20:30),Rayo Vallecano,,Real Madrid,,Estadio del Rayo Vallecano,,Head-to-Head,,2022,02,26,Rayo Vallecano vs Real Madrid
+15,SP,26,Sat,2022-02-26,21:00 (23:00),Atlético Madrid,,Celta Vigo,,Estadio Wanda Metropolitano,,Head-to-Head,,2022,02,26,Atlético Madrid vs Celta Vigo
+16,SP,26,Sun,2022-02-27,14:00 (16:00),Villarreal,,Espanyol,,Estadio de la Cerámica,,Head-to-Head,,2022,02,27,Villarreal vs Espanyol
+17,SP,26,Sun,2022-02-27,16:15 (18:15),Sevilla,,Betis,,Estadio Ramón Sánchez Pizjuán,,Head-to-Head,,2022,02,27,Sevilla vs Betis
+18,SP,26,Sun,2022-02-27,18:30 (20:30),Real Sociedad,,Osasuna,,Estadio Municipal de Anoeta,,Head-to-Head,,2022,02,27,Real Sociedad vs Osasuna
+19,SP,26,Sun,2022-02-27,21:00 (23:00),Barcelona,,Athletic Club,,Camp Nou,,Head-to-Head,,2022,02,27,Barcelona vs Athletic Club
+20,SP,26,Mon,2022-02-28,21:00 (23:00),Granada,,Cádiz,,Estadio Nuevo Los Cármenes,,Head-to-Head,,2022,02,28,Granada vs Cádiz
+21,SP,21,Wed,2022-03-02,21:00 (23:00),Mallorca,,Real Sociedad,,Iberostar Estadi,,Head-to-Head,,2022,03,02,Mallorca vs Real Sociedad
+22,SP,27,Fri,2022-03-04,21:00 (23:00),Alavés,,Sevilla,,Estadio de Mendizorroza,,Head-to-Head,,2022,03,04,Alavés vs Sevilla
+23,SP,27,Sat,2022-03-05,14:00 (16:00),Osasuna,,Villarreal,,Estadio El Sadar,,Head-to-Head,,2022,03,05,Osasuna vs Villarreal
+24,SP,27,Sat,2022-03-05,16:15 (18:15),Espanyol,,Getafe,,RCDE Stadium,,Head-to-Head,,2022,03,05,Espanyol vs Getafe
+25,SP,27,Sat,2022-03-05,18:30 (20:30),Valencia,,Granada,,Estadio de Mestalla,,Head-to-Head,,2022,03,05,Valencia vs Granada
+26,SP,27,Sat,2022-03-05,21:00 (23:00),Real Madrid,,Real Sociedad,,Estadio Santiago Bernabéu,,Head-to-Head,,2022,03,05,Real Madrid vs Real Sociedad
+27,SP,27,Sun,2022-03-06,14:00 (16:00),Cádiz,,Rayo Vallecano,,Estadio Nuevo Mirandilla,,Head-to-Head,,2022,03,06,Cádiz vs Rayo Vallecano
+28,SP,27,Sun,2022-03-06,16:15 (18:15),Elche,,Barcelona,,Estadio Manuel Martínez Valero,,Head-to-Head,,2022,03,06,Elche vs Barcelona
+29,SP,27,Sun,2022-03-06,18:30 (20:30),Celta Vigo,,Mallorca,,Estadio de Balaídos,,Head-to-Head,,2022,03,06,Celta Vigo vs Mallorca
+30,SP,27,Sun,2022-03-06,21:00 (23:00),Betis,,Atlético Madrid,,Estadio Benito Villamarín,,Head-to-Head,,2022,03,06,Betis vs Atlético Madrid
+31,SP,27,Mon,2022-03-07,21:00 (23:00),Athletic Club,,Levante,,San Mamés,,Head-to-Head,,2022,03,07,Athletic Club vs Levante
+32,SP,28,Sun,2022-03-13,,Granada,,Elche,,Estadio Nuevo Los Cármenes,,Head-to-Head,,2022,03,13,Granada vs Elche
+33,SP,28,Sun,2022-03-13,,Real Sociedad,,Alavés,,Estadio Municipal de Anoeta,,Head-to-Head,,2022,03,13,Real Sociedad vs Alavés
+34,SP,28,Sun,2022-03-13,,Getafe,,Valencia,,Coliseum Alfonso Pérez,,Head-to-Head,,2022,03,13,Getafe vs Valencia
+35,SP,28,Sun,2022-03-13,,Levante,,Espanyol,,Estadio Ciudad de Valencia,,Head-to-Head,,2022,03,13,Levante vs Espanyol
+36,SP,28,Sun,2022-03-13,,Betis,,Athletic Club,,Estadio Benito Villamarín,,Head-to-Head,,2022,03,13,Betis vs Athletic Club
+37,SP,28,Sun,2022-03-13,,Atlético Madrid,,Cádiz,,Estadio Wanda Metropolitano,,Head-to-Head,,2022,03,13,Atlético Madrid vs Cádiz
+38,SP,28,Sun,2022-03-13,,Rayo Vallecano,,Sevilla,,Estadio del Rayo Vallecano,,Head-to-Head,,2022,03,13,Rayo Vallecano vs Sevilla
+39,SP,28,Sun,2022-03-13,,Villarreal,,Celta Vigo,,Estadio de la Cerámica,,Head-to-Head,,2022,03,13,Villarreal vs Celta Vigo
+40,SP,28,Sun,2022-03-13,,Barcelona,,Osasuna,,Camp Nou,,Head-to-Head,,2022,03,13,Barcelona vs Osasuna
+41,SP,28,Sun,2022-03-13,,Mallorca,,Real Madrid,,Iberostar Estadi,,Head-to-Head,,2022,03,13,Mallorca vs Real Madrid
+42,SP,29,Sun,2022-03-20,,Rayo Vallecano,,Atlético Madrid,,,,Head-to-Head,,2022,03,20,Rayo Vallecano vs Atlético Madrid
+43,SP,29,Sun,2022-03-20,,Real Madrid,,Barcelona,,,,Head-to-Head,,2022,03,20,Real Madrid vs Barcelona
+44,SP,29,Sun,2022-03-20,,Alavés,,Granada,,,,Head-to-Head,,2022,03,20,Alavés vs Granada
+45,SP,29,Sun,2022-03-20,,Elche,,Valencia,,,,Head-to-Head,,2022,03,20,Elche vs Valencia
+46,SP,29,Sun,2022-03-20,,Osasuna,,Levante,,,,Head-to-Head,,2022,03,20,Osasuna vs Levante
+47,SP,29,Sun,2022-03-20,,Cádiz,,Villarreal,,,,Head-to-Head,,2022,03,20,Cádiz vs Villarreal
+48,SP,29,Sun,2022-03-20,,Athletic Club,,Getafe,,,,Head-to-Head,,2022,03,20,Athletic Club vs Getafe
+49,SP,29,Sun,2022-03-20,,Celta Vigo,,Betis,,,,Head-to-Head,,2022,03,20,Celta Vigo vs Betis
+50,SP,29,Sun,2022-03-20,,Espanyol,,Mallorca,,,,Head-to-Head,,2022,03,20,Espanyol vs Mallorca
+51,SP,29,Sun,2022-03-20,,Sevilla,,Real Sociedad,,,,Head-to-Head,,2022,03,20,Sevilla vs Real Sociedad
+52,SP,30,Sun,2022-04-03,,Betis,,Osasuna,,,,Head-to-Head,,2022,04,03,Betis vs Osasuna
+53,SP,30,Sun,2022-04-03,,Levante,,Villarreal,,,,Head-to-Head,,2022,04,03,Levante vs Villarreal
+54,SP,30,Sun,2022-04-03,,Barcelona,,Sevilla,,,,Head-to-Head,,2022,04,03,Barcelona vs Sevilla
+55,SP,30,Sun,2022-04-03,,Granada,,Rayo Vallecano,,,,Head-to-Head,,2022,04,03,Granada vs Rayo Vallecano
+56,SP,30,Sun,2022-04-03,,Celta Vigo,,Real Madrid,,,,Head-to-Head,,2022,04,03,Celta Vigo vs Real Madrid
+57,SP,30,Sun,2022-04-03,,Athletic Club,,Elche,,,,Head-to-Head,,2022,04,03,Athletic Club vs Elche
+58,SP,30,Sun,2022-04-03,,Valencia,,Cádiz,,,,Head-to-Head,,2022,04,03,Valencia vs Cádiz
+59,SP,30,Sun,2022-04-03,,Atlético Madrid,,Alavés,,,,Head-to-Head,,2022,04,03,Atlético Madrid vs Alavés
+60,SP,30,Sun,2022-04-03,,Real Sociedad,,Espanyol,,,,Head-to-Head,,2022,04,03,Real Sociedad vs Espanyol
+61,SP,30,Sun,2022-04-03,,Getafe,,Mallorca,,,,Head-to-Head,,2022,04,03,Getafe vs Mallorca
+62,SP,31,Sun,2022-04-10,,Osasuna,,Alavés,,,,Head-to-Head,,2022,04,10,Osasuna vs Alavés
+63,SP,31,Sun,2022-04-10,,Real Madrid,,Getafe,,,,Head-to-Head,,2022,04,10,Real Madrid vs Getafe
+64,SP,31,Sun,2022-04-10,,Levante,,Barcelona,,,,Head-to-Head,,2022,04,10,Levante vs Barcelona
+65,SP,31,Sun,2022-04-10,,Sevilla,,Granada,,,,Head-to-Head,,2022,04,10,Sevilla vs Granada
+66,SP,31,Sun,2022-04-10,,Villarreal,,Athletic Club,,,,Head-to-Head,,2022,04,10,Villarreal vs Athletic Club
+67,SP,31,Sun,2022-04-10,,Espanyol,,Celta Vigo,,,,Head-to-Head,,2022,04,10,Espanyol vs Celta Vigo
+68,SP,31,Sun,2022-04-10,,Mallorca,,Atlético Madrid,,,,Head-to-Head,,2022,04,10,Mallorca vs Atlético Madrid
+69,SP,31,Sun,2022-04-10,,Rayo Vallecano,,Valencia,,,,Head-to-Head,,2022,04,10,Rayo Vallecano vs Valencia
+70,SP,31,Sun,2022-04-10,,Elche,,Real Sociedad,,,,Head-to-Head,,2022,04,10,Elche vs Real Sociedad
+71,SP,31,Sun,2022-04-10,,Cádiz,,Betis,,,,Head-to-Head,,2022,04,10,Cádiz vs Betis
+72,SP,32,Sun,2022-04-17,,Granada,,Levante,,,,Head-to-Head,,2022,04,17,Granada vs Levante
+73,SP,32,Sun,2022-04-17,,Alavés,,Rayo Vallecano,,,,Head-to-Head,,2022,04,17,Alavés vs Rayo Vallecano
+74,SP,32,Sun,2022-04-17,,Atlético Madrid,,Espanyol,,,,Head-to-Head,,2022,04,17,Atlético Madrid vs Espanyol
+75,SP,32,Sun,2022-04-17,,Real Sociedad,,Betis,,,,Head-to-Head,,2022,04,17,Real Sociedad vs Betis
+76,SP,32,Sun,2022-04-17,,Elche,,Mallorca,,,,Head-to-Head,,2022,04,17,Elche vs Mallorca
+77,SP,32,Sun,2022-04-17,,Getafe,,Villarreal,,,,Head-to-Head,,2022,04,17,Getafe vs Villarreal
+78,SP,32,Sun,2022-04-17,,Sevilla,,Real Madrid,,,,Head-to-Head,,2022,04,17,Sevilla vs Real Madrid
+79,SP,32,Sun,2022-04-17,,Valencia,,Osasuna,,,,Head-to-Head,,2022,04,17,Valencia vs Osasuna
+80,SP,32,Sun,2022-04-17,,Barcelona,,Cádiz,,,,Head-to-Head,,2022,04,17,Barcelona vs Cádiz
+81,SP,32,Sun,2022-04-17,,Athletic Club,,Celta Vigo,,,,Head-to-Head,,2022,04,17,Athletic Club vs Celta Vigo
+82,SP,33,Wed,2022-04-20,,Levante,,Sevilla,,,,Head-to-Head,,2022,04,20,Levante vs Sevilla
+83,SP,33,Wed,2022-04-20,,Mallorca,,Alavés,,,,Head-to-Head,,2022,04,20,Mallorca vs Alavés
+84,SP,33,Wed,2022-04-20,,Osasuna,,Real Madrid,,,,Head-to-Head,,2022,04,20,Osasuna vs Real Madrid
+85,SP,33,Wed,2022-04-20,,Real Sociedad,,Barcelona,,,,Head-to-Head,,2022,04,20,Real Sociedad vs Barcelona
+86,SP,33,Wed,2022-04-20,,Espanyol,,Rayo Vallecano,,,,Head-to-Head,,2022,04,20,Espanyol vs Rayo Vallecano
+87,SP,33,Wed,2022-04-20,,Villarreal,,Valencia,,,,Head-to-Head,,2022,04,20,Villarreal vs Valencia
+88,SP,33,Wed,2022-04-20,,Atlético Madrid,,Granada,,,,Head-to-Head,,2022,04,20,Atlético Madrid vs Granada
+89,SP,33,Wed,2022-04-20,,Cádiz,,Athletic Club,,,,Head-to-Head,,2022,04,20,Cádiz vs Athletic Club
+90,SP,33,Wed,2022-04-20,,Betis,,Elche,,,,Head-to-Head,,2022,04,20,Betis vs Elche
+91,SP,33,Wed,2022-04-20,,Celta Vigo,,Getafe,,,,Head-to-Head,,2022,04,20,Celta Vigo vs Getafe
+92,SP,34,Sun,2022-05-01,,Elche,,Osasuna,,,,Head-to-Head,,2022,05,01,Elche vs Osasuna
+93,SP,34,Sun,2022-05-01,,Rayo Vallecano,,Real Sociedad,,,,Head-to-Head,,2022,05,01,Rayo Vallecano vs Real Sociedad
+94,SP,34,Sun,2022-05-01,,Athletic Club,,Atlético Madrid,,,,Head-to-Head,,2022,05,01,Athletic Club vs Atlético Madrid
+95,SP,34,Sun,2022-05-01,,Granada,,Celta Vigo,,,,Head-to-Head,,2022,05,01,Granada vs Celta Vigo
+96,SP,34,Sun,2022-05-01,,Valencia,,Levante,,,,Head-to-Head,,2022,05,01,Valencia vs Levante
+97,SP,34,Sun,2022-05-01,,Real Madrid,,Espanyol,,,,Head-to-Head,,2022,05,01,Real Madrid vs Espanyol
+98,SP,34,Sun,2022-05-01,,Getafe,,Betis,,,,Head-to-Head,,2022,05,01,Getafe vs Betis
+99,SP,34,Sun,2022-05-01,,Alavés,,Villarreal,,,,Head-to-Head,,2022,05,01,Alavés vs Villarreal
+100,SP,34,Sun,2022-05-01,,Barcelona,,Mallorca,,,,Head-to-Head,,2022,05,01,Barcelona vs Mallorca
+101,SP,34,Sun,2022-05-01,,Sevilla,,Cádiz,,,,Head-to-Head,,2022,05,01,Sevilla vs Cádiz
+102,SP,35,Sun,2022-05-08,,Celta Vigo,,Alavés,,,,Head-to-Head,,2022,05,08,Celta Vigo vs Alavés
+103,SP,35,Sun,2022-05-08,,Espanyol,,Osasuna,,,,Head-to-Head,,2022,05,08,Espanyol vs Osasuna
+104,SP,35,Sun,2022-05-08,,Villarreal,,Sevilla,,,,Head-to-Head,,2022,05,08,Villarreal vs Sevilla
+105,SP,35,Sun,2022-05-08,,Athletic Club,,Valencia,,,,Head-to-Head,,2022,05,08,Athletic Club vs Valencia
+106,SP,35,Sun,2022-05-08,,Mallorca,,Granada,,,,Head-to-Head,,2022,05,08,Mallorca vs Granada
+107,SP,35,Sun,2022-05-08,,Levante,,Real Sociedad,,,,Head-to-Head,,2022,05,08,Levante vs Real Sociedad
+108,SP,35,Sun,2022-05-08,,Atlético Madrid,,Real Madrid,,,,Head-to-Head,,2022,05,08,Atlético Madrid vs Real Madrid
+109,SP,35,Sun,2022-05-08,,Cádiz,,Elche,,,,Head-to-Head,,2022,05,08,Cádiz vs Elche
+110,SP,35,Sun,2022-05-08,,Getafe,,Rayo Vallecano,,,,Head-to-Head,,2022,05,08,Getafe vs Rayo Vallecano
+111,SP,35,Sun,2022-05-08,,Betis,,Barcelona,,,,Head-to-Head,,2022,05,08,Betis vs Barcelona
+112,SP,36,Wed,2022-05-11,,Osasuna,,Getafe,,,,Head-to-Head,,2022,05,11,Osasuna vs Getafe
+113,SP,36,Wed,2022-05-11,,Real Sociedad,,Cádiz,,,,Head-to-Head,,2022,05,11,Real Sociedad vs Cádiz
+114,SP,36,Wed,2022-05-11,,Sevilla,,Mallorca,,,,Head-to-Head,,2022,05,11,Sevilla vs Mallorca
+115,SP,36,Wed,2022-05-11,,Elche,,Atlético Madrid,,,,Head-to-Head,,2022,05,11,Elche vs Atlético Madrid
+116,SP,36,Wed,2022-05-11,,Real Madrid,,Levante,,,,Head-to-Head,,2022,05,11,Real Madrid vs Levante
+117,SP,36,Wed,2022-05-11,,Valencia,,Betis,,,,Head-to-Head,,2022,05,11,Valencia vs Betis
+118,SP,36,Wed,2022-05-11,,Barcelona,,Celta Vigo,,,,Head-to-Head,,2022,05,11,Barcelona vs Celta Vigo
+119,SP,36,Wed,2022-05-11,,Rayo Vallecano,,Villarreal,,,,Head-to-Head,,2022,05,11,Rayo Vallecano vs Villarreal
+120,SP,36,Wed,2022-05-11,,Alavés,,Espanyol,,,,Head-to-Head,,2022,05,11,Alavés vs Espanyol
+121,SP,36,Wed,2022-05-11,,Granada,,Athletic Club,,,,Head-to-Head,,2022,05,11,Granada vs Athletic Club
+122,SP,37,Sun,2022-05-15,,Celta Vigo,,Elche,,,,Head-to-Head,,2022,05,15,Celta Vigo vs Elche
+123,SP,37,Sun,2022-05-15,,Athletic Club,,Osasuna,,,,Head-to-Head,,2022,05,15,Athletic Club vs Osasuna
+124,SP,37,Sun,2022-05-15,,Getafe,,Barcelona,,,,Head-to-Head,,2022,05,15,Getafe vs Barcelona
+125,SP,37,Sun,2022-05-15,,Espanyol,,Valencia,,,,Head-to-Head,,2022,05,15,Espanyol vs Valencia
+126,SP,37,Sun,2022-05-15,,Betis,,Granada,,,,Head-to-Head,,2022,05,15,Betis vs Granada
+127,SP,37,Sun,2022-05-15,,Atlético Madrid,,Sevilla,,,,Head-to-Head,,2022,05,15,Atlético Madrid vs Sevilla
+128,SP,37,Sun,2022-05-15,,Levante,,Alavés,,,,Head-to-Head,,2022,05,15,Levante vs Alavés
+129,SP,37,Sun,2022-05-15,,Cádiz,,Real Madrid,,,,Head-to-Head,,2022,05,15,Cádiz vs Real Madrid
+130,SP,37,Sun,2022-05-15,,Villarreal,,Real Sociedad,,,,Head-to-Head,,2022,05,15,Villarreal vs Real Sociedad
+131,SP,37,Sun,2022-05-15,,Mallorca,,Rayo Vallecano,,,,Head-to-Head,,2022,05,15,Mallorca vs Rayo Vallecano
+132,SP,38,Sun,2022-05-22,,Rayo Vallecano,,Levante,,,,Head-to-Head,,2022,05,22,Rayo Vallecano vs Levante
+133,SP,38,Sun,2022-05-22,,Real Sociedad,,Atlético Madrid,,,,Head-to-Head,,2022,05,22,Real Sociedad vs Atlético Madrid
+134,SP,38,Sun,2022-05-22,,Alavés,,Cádiz,,,,Head-to-Head,,2022,05,22,Alavés vs Cádiz
+135,SP,38,Sun,2022-05-22,,Barcelona,,Villarreal,,,,Head-to-Head,,2022,05,22,Barcelona vs Villarreal
+136,SP,38,Sun,2022-05-22,,Real Madrid,,Betis,,,,Head-to-Head,,2022,05,22,Real Madrid vs Betis
+137,SP,38,Sun,2022-05-22,,Sevilla,,Athletic Club,,,,Head-to-Head,,2022,05,22,Sevilla vs Athletic Club
+138,SP,38,Sun,2022-05-22,,Osasuna,,Mallorca,,,,Head-to-Head,,2022,05,22,Osasuna vs Mallorca
+139,SP,38,Sun,2022-05-22,,Granada,,Espanyol,,,,Head-to-Head,,2022,05,22,Granada vs Espanyol
+140,SP,38,Sun,2022-05-22,,Valencia,,Celta Vigo,,,,Head-to-Head,,2022,05,22,Valencia vs Celta Vigo
+141,SP,38,Sun,2022-05-22,,Elche,,Getafe,,,,Head-to-Head,,2022,05,22,Elche vs Getafe
+142,P,23,Fri,2022-02-18,20:00 (22:00),Fortuna Sittard,,Sparta R'dam,,Fortuna Sittard Stadion,,Head-to-Head,,2022,02,18,Fortuna Sittard vs Sparta R'dam
+143,P,23,Sat,2022-02-19,16:30 (18:30),NEC Nijmegen,,RKC Waalwijk,,Goffertstadion,,Head-to-Head,,2022,02,19,NEC Nijmegen vs RKC Waalwijk
+144,P,23,Sat,2022-02-19,18:45 (20:45),Willem II,,Ajax,,Koning Willem II Stadion,,Head-to-Head,,2022,02,19,Willem II vs Ajax
+145,P,23,Sat,2022-02-19,21:00 (23:00),AZ Alkmaar,,Heracles Almelo,,AFAS Stadion,,Head-to-Head,,2022,02,19,AZ Alkmaar vs Heracles Almelo
+146,P,23,Sun,2022-02-20,12:15 (14:15),Zwolle,,Groningen,,MAC³PARK Stadion,,Head-to-Head,,2022,02,20,Zwolle vs Groningen
+147,P,23,Sun,2022-02-20,14:30 (16:30),Twente,,Go Ahead Eag,,De Grolsch Veste,,Head-to-Head,,2022,02,20,Twente vs Go Ahead Eag
+148,P,23,Sun,2022-02-20,14:30 (16:30),Feyenoord,,Cambuur,,Stadion Feijenoord,,Head-to-Head,,2022,02,20,Feyenoord vs Cambuur
+149,P,23,Sun,2022-02-20,16:45 (18:45),PSV Eindhoven,,Heerenveen,,Philips Stadion,,Head-to-Head,,2022,02,20,PSV Eindhoven vs Heerenveen
+150,P,23,Sun,2022-02-20,16:45 (18:45),Utrecht,,Vitesse,,Stadion Galgenwaard,,Head-to-Head,,2022,02,20,Utrecht vs Vitesse
+151,P,24,Fri,2022-02-25,20:00 (22:00),RKC Waalwijk,,Twente,,Mandemakers Stadion,,Head-to-Head,,2022,02,25,RKC Waalwijk vs Twente
+152,P,24,Sat,2022-02-26,16:30 (18:30),Heracles Almelo,,Zwolle,,Polman Stadion,,Head-to-Head,,2022,02,26,Heracles Almelo vs Zwolle
+153,P,24,Sat,2022-02-26,18:45 (20:45),Groningen,,Willem II,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,02,26,Groningen vs Willem II
+154,P,24,Sat,2022-02-26,21:00 (23:00),Cambuur,,Fortuna Sittard,,Cambuurstadion,,Head-to-Head,,2022,02,26,Cambuur vs Fortuna Sittard
+155,P,24,Sun,2022-02-27,12:15 (14:15),Vitesse,,NEC Nijmegen,,GelreDome,,Head-to-Head,,2022,02,27,Vitesse vs NEC Nijmegen
+156,P,24,Sun,2022-02-27,12:15 (14:15),AZ Alkmaar,,Feyenoord,,AFAS Stadion,,Head-to-Head,,2022,02,27,AZ Alkmaar vs Feyenoord
+157,P,24,Sun,2022-02-27,14:30 (16:30),Sparta R'dam,,PSV Eindhoven,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,02,27,Sparta R'dam vs PSV Eindhoven
+158,P,24,Sun,2022-02-27,16:45 (18:45),Go Ahead Eag,,Ajax,,De Adelaarshorst,,Head-to-Head,,2022,02,27,Go Ahead Eag vs Ajax
+159,P,24,Sun,2022-02-27,20:00 (22:00),Heerenveen,,Utrecht,,Abe Lenstra Stadion,,Head-to-Head,,2022,02,27,Heerenveen vs Utrecht
+160,P,25,Fri,2022-03-04,20:00 (22:00),Vitesse,,Sparta R'dam,,GelreDome,,Head-to-Head,,2022,03,04,Vitesse vs Sparta R'dam
+161,P,25,Sat,2022-03-05,16:30 (18:30),PSV Eindhoven,,Heracles Almelo,,Philips Stadion,,Head-to-Head,,2022,03,05,PSV Eindhoven vs Heracles Almelo
+162,P,25,Sat,2022-03-05,18:45 (20:45),NEC Nijmegen,,AZ Alkmaar,,Goffertstadion,,Head-to-Head,,2022,03,05,NEC Nijmegen vs AZ Alkmaar
+163,P,25,Sat,2022-03-05,20:00 (22:00),Go Ahead Eag,,Utrecht,,De Adelaarshorst,,Head-to-Head,,2022,03,05,Go Ahead Eag vs Utrecht
+164,P,25,Sat,2022-03-05,21:00 (23:00),Feyenoord,,Groningen,,Stadion Feijenoord,,Head-to-Head,,2022,03,05,Feyenoord vs Groningen
+165,P,25,Sun,2022-03-06,12:15 (14:15),Willem II,,Heerenveen,,Koning Willem II Stadion,,Head-to-Head,,2022,03,06,Willem II vs Heerenveen
+166,P,25,Sun,2022-03-06,14:30 (16:30),Twente,,Cambuur,,De Grolsch Veste,,Head-to-Head,,2022,03,06,Twente vs Cambuur
+167,P,25,Sun,2022-03-06,16:45 (18:45),Ajax,,RKC Waalwijk,,Johan Cruyff ArenA,,Head-to-Head,,2022,03,06,Ajax vs RKC Waalwijk
+168,P,25,Sun,2022-03-06,20:00 (22:00),Fortuna Sittard,,Zwolle,,Fortuna Sittard Stadion,,Head-to-Head,,2022,03,06,Fortuna Sittard vs Zwolle
+169,P,26,Fri,2022-03-11,20:00 (22:00),Cambuur,,Ajax,,Cambuurstadion,,Head-to-Head,,2022,03,11,Cambuur vs Ajax
+170,P,26,Sat,2022-03-12,16:30 (18:30),Sparta R'dam,,Go Ahead Eag,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,03,12,Sparta R'dam vs Go Ahead Eag
+171,P,26,Sat,2022-03-12,18:45 (20:45),Groningen,,NEC Nijmegen,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,03,12,Groningen vs NEC Nijmegen
+172,P,26,Sat,2022-03-12,21:00 (23:00),RKC Waalwijk,,Heerenveen,,Mandemakers Stadion,,Head-to-Head,,2022,03,12,RKC Waalwijk vs Heerenveen
+173,P,26,Sun,2022-03-13,12:15 (14:15),Fortuna Sittard,,Willem II,,Fortuna Sittard Stadion,,Head-to-Head,,2022,03,13,Fortuna Sittard vs Willem II
+174,P,26,Sun,2022-03-13,14:30 (16:30),Heracles Almelo,,Vitesse,,Polman Stadion,,Head-to-Head,,2022,03,13,Heracles Almelo vs Vitesse
+175,P,26,Sun,2022-03-13,14:30 (16:30),Utrecht,,PSV Eindhoven,,Stadion Galgenwaard,,Head-to-Head,,2022,03,13,Utrecht vs PSV Eindhoven
+176,P,26,Sun,2022-03-13,16:45 (18:45),Zwolle,,Feyenoord,,MAC³PARK Stadion,,Head-to-Head,,2022,03,13,Zwolle vs Feyenoord
+177,P,26,Sun,2022-03-13,20:00 (22:00),AZ Alkmaar,,Twente,,AFAS Stadion,,Head-to-Head,,2022,03,13,AZ Alkmaar vs Twente
+178,P,27,Fri,2022-03-18,20:00 (22:00),Heerenveen,,Heracles Almelo,,Abe Lenstra Stadion,,Head-to-Head,,2022,03,18,Heerenveen vs Heracles Almelo
+179,P,27,Sat,2022-03-19,18:45 (20:45),Go Ahead Eag,,Cambuur,,De Adelaarshorst,,Head-to-Head,,2022,03,19,Go Ahead Eag vs Cambuur
+180,P,27,Sat,2022-03-19,20:00 (22:00),Twente,,Zwolle,,De Grolsch Veste,,Head-to-Head,,2022,03,19,Twente vs Zwolle
+181,P,27,Sat,2022-03-19,21:00 (23:00),NEC Nijmegen,,Sparta R'dam,,Goffertstadion,,Head-to-Head,,2022,03,19,NEC Nijmegen vs Sparta R'dam
+182,P,27,Sun,2022-03-20,12:15 (14:15),Utrecht,,Groningen,,Stadion Galgenwaard,,Head-to-Head,,2022,03,20,Utrecht vs Groningen
+183,P,27,Sun,2022-03-20,14:30 (16:30),Ajax,,Feyenoord,,Johan Cruyff ArenA,,Head-to-Head,,2022,03,20,Ajax vs Feyenoord
+184,P,27,Sun,2022-03-20,16:45 (18:45),Vitesse,,RKC Waalwijk,,GelreDome,,Head-to-Head,,2022,03,20,Vitesse vs RKC Waalwijk
+185,P,27,Sun,2022-03-20,16:45 (18:45),PSV Eindhoven,,Fortuna Sittard,,Philips Stadion,,Head-to-Head,,2022,03,20,PSV Eindhoven vs Fortuna Sittard
+186,P,27,Sun,2022-03-20,20:00 (22:00),Willem II,,AZ Alkmaar,,Koning Willem II Stadion,,Head-to-Head,,2022,03,20,Willem II vs AZ Alkmaar
+187,P,28,Sat,2022-04-02,16:30 (17:30),Groningen,,Ajax,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,04,02,Groningen vs Ajax
+188,P,28,Sat,2022-04-02,18:45 (19:45),Twente,,PSV Eindhoven,,De Grolsch Veste,,Head-to-Head,,2022,04,02,Twente vs PSV Eindhoven
+189,P,28,Sat,2022-04-02,20:00 (21:00),RKC Waalwijk,,Utrecht,,Mandemakers Stadion,,Head-to-Head,,2022,04,02,RKC Waalwijk vs Utrecht
+190,P,28,Sat,2022-04-02,20:00 (21:00),AZ Alkmaar,,Vitesse,,AFAS Stadion,,Head-to-Head,,2022,04,02,AZ Alkmaar vs Vitesse
+191,P,28,Sat,2022-04-02,21:00 (22:00),Feyenoord,,Willem II,,Stadion Feijenoord,,Head-to-Head,,2022,04,02,Feyenoord vs Willem II
+192,P,28,Sun,2022-04-03,12:15 (13:15),Zwolle,,Go Ahead Eag,,MAC³PARK Stadion,,Head-to-Head,,2022,04,03,Zwolle vs Go Ahead Eag
+193,P,28,Sun,2022-04-03,14:30 (15:30),Fortuna Sittard,,Heracles Almelo,,Fortuna Sittard Stadion,,Head-to-Head,,2022,04,03,Fortuna Sittard vs Heracles Almelo
+194,P,28,Sun,2022-04-03,14:30 (15:30),Sparta R'dam,,Heerenveen,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,04,03,Sparta R'dam vs Heerenveen
+195,P,28,Sun,2022-04-03,16:45 (17:45),Cambuur,,NEC Nijmegen,,Cambuurstadion,,Head-to-Head,,2022,04,03,Cambuur vs NEC Nijmegen
+196,P,29,Fri,2022-04-08,20:00 (21:00),Go Ahead Eag,,Willem II,,De Adelaarshorst,,Head-to-Head,,2022,04,08,Go Ahead Eag vs Willem II
+197,P,29,Sat,2022-04-09,18:45 (19:45),Utrecht,,Fortuna Sittard,,Stadion Galgenwaard,,Head-to-Head,,2022,04,09,Utrecht vs Fortuna Sittard
+198,P,29,Sat,2022-04-09,20:00 (21:00),Ajax,,Sparta R'dam,,Johan Cruyff ArenA,,Head-to-Head,,2022,04,09,Ajax vs Sparta R'dam
+199,P,29,Sat,2022-04-09,21:00 (22:00),NEC Nijmegen,,Twente,,Goffertstadion,,Head-to-Head,,2022,04,09,NEC Nijmegen vs Twente
+200,P,29,Sun,2022-04-10,12:15 (13:15),Heerenveen,,Groningen,,Abe Lenstra Stadion,,Head-to-Head,,2022,04,10,Heerenveen vs Groningen
+201,P,29,Sun,2022-04-10,14:30 (15:30),Vitesse,,Cambuur,,GelreDome,,Head-to-Head,,2022,04,10,Vitesse vs Cambuur
+202,P,29,Sun,2022-04-10,14:30 (15:30),PSV Eindhoven,,RKC Waalwijk,,Philips Stadion,,Head-to-Head,,2022,04,10,PSV Eindhoven vs RKC Waalwijk
+203,P,29,Sun,2022-04-10,16:45 (17:45),Heracles Almelo,,Feyenoord,,Polman Stadion,,Head-to-Head,,2022,04,10,Heracles Almelo vs Feyenoord
+204,P,29,Sun,2022-04-10,20:00 (21:00),Zwolle,,AZ Alkmaar,,MAC³PARK Stadion,,Head-to-Head,,2022,04,10,Zwolle vs AZ Alkmaar
+205,P,30,Fri,2022-04-22,20:00 (21:00),Twente,,Sparta R'dam,,De Grolsch Veste,,Head-to-Head,,2022,04,22,Twente vs Sparta R'dam
+206,P,30,Sat,2022-04-23,16:30 (17:30),NEC Nijmegen,,Ajax,,Goffertstadion,,Head-to-Head,,2022,04,23,NEC Nijmegen vs Ajax
+207,P,30,Sat,2022-04-23,18:45 (19:45),AZ Alkmaar,,Heerenveen,,AFAS Stadion,,Head-to-Head,,2022,04,23,AZ Alkmaar vs Heerenveen
+208,P,30,Sat,2022-04-23,20:00 (21:00),RKC Waalwijk,,Zwolle,,Mandemakers Stadion,,Head-to-Head,,2022,04,23,RKC Waalwijk vs Zwolle
+209,P,30,Sat,2022-04-23,21:00 (22:00),Cambuur,,PSV Eindhoven,,Cambuurstadion,,Head-to-Head,,2022,04,23,Cambuur vs PSV Eindhoven
+210,P,30,Sun,2022-04-24,12:15 (13:15),Willem II,,Vitesse,,Koning Willem II Stadion,,Head-to-Head,,2022,04,24,Willem II vs Vitesse
+211,P,30,Sun,2022-04-24,14:30 (15:30),Groningen,,Heracles Almelo,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,04,24,Groningen vs Heracles Almelo
+212,P,30,Sun,2022-04-24,14:30 (15:30),Feyenoord,,Utrecht,,Stadion Feijenoord,,Head-to-Head,,2022,04,24,Feyenoord vs Utrecht
+213,P,30,Sun,2022-04-24,16:45 (17:45),Fortuna Sittard,,Go Ahead Eag,,Fortuna Sittard Stadion,,Head-to-Head,,2022,04,24,Fortuna Sittard vs Go Ahead Eag
+214,P,31,Fri,2022-04-29,20:00 (21:00),Utrecht,,NEC Nijmegen,,Stadion Galgenwaard,,Head-to-Head,,2022,04,29,Utrecht vs NEC Nijmegen
+215,P,31,Sat,2022-04-30,18:45 (19:45),Ajax,,Zwolle,,Johan Cruyff ArenA,,Head-to-Head,,2022,04,30,Ajax vs Zwolle
+216,P,31,Sat,2022-04-30,21:00 (22:00),Heracles Almelo,,Twente,,Polman Stadion,,Head-to-Head,,2022,04,30,Heracles Almelo vs Twente
+217,P,31,Sun,2022-05-01,12:15 (13:15),Heerenveen,,Cambuur,,Abe Lenstra Stadion,,Head-to-Head,,2022,05,01,Heerenveen vs Cambuur
+218,P,31,Sun,2022-05-01,14:30 (15:30),Fortuna Sittard,,Feyenoord,,Fortuna Sittard Stadion,,Head-to-Head,,2022,05,01,Fortuna Sittard vs Feyenoord
+219,P,31,Sun,2022-05-01,14:30 (15:30),PSV Eindhoven,,Willem II,,Philips Stadion,,Head-to-Head,,2022,05,01,PSV Eindhoven vs Willem II
+220,P,31,Sun,2022-05-01,14:30 (15:30),Go Ahead Eag,,Vitesse,,De Adelaarshorst,,Head-to-Head,,2022,05,01,Go Ahead Eag vs Vitesse
+221,P,31,Sun,2022-05-01,16:45 (17:45),Sparta R'dam,,AZ Alkmaar,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,05,01,Sparta R'dam vs AZ Alkmaar
+222,P,31,Sun,2022-05-01,20:00 (21:00),RKC Waalwijk,,Groningen,,Mandemakers Stadion,,Head-to-Head,,2022,05,01,RKC Waalwijk vs Groningen
+223,P,32,Fri,2022-05-06,20:00 (21:00),Cambuur,,RKC Waalwijk,,Cambuurstadion,,Head-to-Head,,2022,05,06,Cambuur vs RKC Waalwijk
+224,P,32,Sat,2022-05-07,18:45 (19:45),Twente,,Fortuna Sittard,,De Grolsch Veste,,Head-to-Head,,2022,05,07,Twente vs Fortuna Sittard
+225,P,32,Sat,2022-05-07,20:00 (21:00),Willem II,,Heracles Almelo,,Koning Willem II Stadion,,Head-to-Head,,2022,05,07,Willem II vs Heracles Almelo
+226,P,32,Sat,2022-05-07,20:00 (21:00),Zwolle,,Utrecht,,MAC³PARK Stadion,,Head-to-Head,,2022,05,07,Zwolle vs Utrecht
+227,P,32,Sat,2022-05-07,21:00 (22:00),Groningen,,Sparta R'dam,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,05,07,Groningen vs Sparta R'dam
+228,P,32,Sun,2022-05-08,12:15 (13:15),NEC Nijmegen,,Go Ahead Eag,,Goffertstadion,,Head-to-Head,,2022,05,08,NEC Nijmegen vs Go Ahead Eag
+229,P,32,Sun,2022-05-08,14:30 (15:30),Feyenoord,,PSV Eindhoven,,Stadion Feijenoord,,Head-to-Head,,2022,05,08,Feyenoord vs PSV Eindhoven
+230,P,32,Sun,2022-05-08,16:45 (17:45),AZ Alkmaar,,Ajax,,AFAS Stadion,,Head-to-Head,,2022,05,08,AZ Alkmaar vs Ajax
+231,P,32,Sun,2022-05-08,16:45 (17:45),Vitesse,,Heerenveen,,GelreDome,,Head-to-Head,,2022,05,08,Vitesse vs Heerenveen
+232,P,33,Wed,2022-05-11,20:00 (21:00),Go Ahead Eag,,Feyenoord,,De Adelaarshorst,,Head-to-Head,,2022,05,11,Go Ahead Eag vs Feyenoord
+233,P,33,Wed,2022-05-11,20:00 (21:00),Twente,,Groningen,,De Grolsch Veste,,Head-to-Head,,2022,05,11,Twente vs Groningen
+234,P,33,Wed,2022-05-11,20:00 (21:00),PSV Eindhoven,,NEC Nijmegen,,Philips Stadion,,Head-to-Head,,2022,05,11,PSV Eindhoven vs NEC Nijmegen
+235,P,33,Wed,2022-05-11,20:00 (21:00),Ajax,,Heerenveen,,Johan Cruyff ArenA,,Head-to-Head,,2022,05,11,Ajax vs Heerenveen
+236,P,33,Wed,2022-05-11,20:00 (21:00),Cambuur,,Willem II,,Cambuurstadion,,Head-to-Head,,2022,05,11,Cambuur vs Willem II
+237,P,33,Wed,2022-05-11,20:00 (21:00),Fortuna Sittard,,Vitesse,,Fortuna Sittard Stadion,,Head-to-Head,,2022,05,11,Fortuna Sittard vs Vitesse
+238,P,33,Wed,2022-05-11,20:00 (21:00),Sparta R'dam,,Zwolle,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,05,11,Sparta R'dam vs Zwolle
+239,P,33,Wed,2022-05-11,20:00 (21:00),Utrecht,,AZ Alkmaar,,Stadion Galgenwaard,,Head-to-Head,,2022,05,11,Utrecht vs AZ Alkmaar
+240,P,33,Wed,2022-05-11,20:00 (21:00),RKC Waalwijk,,Heracles Almelo,,Mandemakers Stadion,,Head-to-Head,,2022,05,11,RKC Waalwijk vs Heracles Almelo
+241,P,34,Sun,2022-05-15,14:30 (15:30),Feyenoord,,Twente,,Stadion Feijenoord,,Head-to-Head,,2022,05,15,Feyenoord vs Twente
+242,P,34,Sun,2022-05-15,14:30 (15:30),Zwolle,,PSV Eindhoven,,MAC³PARK Stadion,,Head-to-Head,,2022,05,15,Zwolle vs PSV Eindhoven
+243,P,34,Sun,2022-05-15,14:30 (15:30),Vitesse,,Ajax,,GelreDome,,Head-to-Head,,2022,05,15,Vitesse vs Ajax
+244,P,34,Sun,2022-05-15,14:30 (15:30),NEC Nijmegen,,Fortuna Sittard,,Goffertstadion,,Head-to-Head,,2022,05,15,NEC Nijmegen vs Fortuna Sittard
+245,P,34,Sun,2022-05-15,14:30 (15:30),Heerenveen,,Go Ahead Eag,,Abe Lenstra Stadion,,Head-to-Head,,2022,05,15,Heerenveen vs Go Ahead Eag
+246,P,34,Sun,2022-05-15,14:30 (15:30),AZ Alkmaar,,RKC Waalwijk,,AFAS Stadion,,Head-to-Head,,2022,05,15,AZ Alkmaar vs RKC Waalwijk
+247,P,34,Sun,2022-05-15,14:30 (15:30),Willem II,,Utrecht,,Koning Willem II Stadion,,Head-to-Head,,2022,05,15,Willem II vs Utrecht
+248,P,34,Sun,2022-05-15,14:30 (15:30),Heracles Almelo,,Sparta R'dam,,Polman Stadion,,Head-to-Head,,2022,05,15,Heracles Almelo vs Sparta R'dam
+249,P,34,Sun,2022-05-15,14:30 (15:30),Groningen,,Cambuur,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,05,15,Groningen vs Cambuur
+250,IT,20,Thu,2022-01-06,12:30 (14:30),Bologna,,Inter,,Stadio Renato Dall'Ara,,,Match Postponed,2022,01,06,Bologna vs Inter
+251,IT,20,Thu,2022-01-06,16:30 (18:30),Atalanta,,Torino,,Stadio Atleti Azzurri d'Italia,,,Match Postponed,2022,01,06,Atalanta vs Torino
+252,IT,20,Thu,2022-01-06,18:30 (20:30),Salernitana,,Venezia,,Stadio Arechi,,,Match Postponed,2022,01,06,Salernitana vs Venezia
+253,IT,20,Thu,2022-01-06,20:45 (22:45),Fiorentina,,Udinese,,Stadio Artemio Franchi,,,Match Postponed,2022,01,06,Fiorentina vs Udinese
+254,IT,26,Fri,2022-02-18,20:45 (22:45),Juventus,,Torino,,Allianz Stadium,,Head-to-Head,,2022,02,18,Juventus vs Torino
+255,IT,26,Sat,2022-02-19,15:00 (17:00),Sampdoria,,Empoli,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,2022,02,19,Sampdoria vs Empoli
+256,IT,26,Sat,2022-02-19,18:00 (20:00),Roma,,Hellas Verona,,Stadio Olimpico,,Head-to-Head,,2022,02,19,Roma vs Hellas Verona
+257,IT,26,Sat,2022-02-19,20:45 (22:45),Salernitana,,Milan,,Stadio Arechi,,Head-to-Head,,2022,02,19,Salernitana vs Milan
+258,IT,26,Sun,2022-02-20,12:30 (14:30),Fiorentina,,Atalanta,,Stadio Artemio Franchi,,Head-to-Head,,2022,02,20,Fiorentina vs Atalanta
+259,IT,26,Sun,2022-02-20,15:00 (17:00),Venezia,,Genoa,,Stadio Pierluigi Penzo,,Head-to-Head,,2022,02,20,Venezia vs Genoa
+260,IT,26,Sun,2022-02-20,18:00 (20:00),Inter,,Sassuolo,,Stadio Giuseppe Meazza,,Head-to-Head,,2022,02,20,Inter vs Sassuolo
+261,IT,26,Sun,2022-02-20,20:45 (22:45),Udinese,,Lazio,,Dacia Arena,,Head-to-Head,,2022,02,20,Udinese vs Lazio
+262,IT,26,Mon,2022-02-21,19:00 (21:00),Cagliari,,Napoli,,Sardegna Arena,,Head-to-Head,,2022,02,21,Cagliari vs Napoli
+263,IT,26,Mon,2022-02-21,21:00 (23:00),Bologna,,Spezia,,Stadio Renato Dall'Ara,,Head-to-Head,,2022,02,21,Bologna vs Spezia
+264,IT,27,Fri,2022-02-25,18:45 (20:45),Milan,,Udinese,,Stadio Giuseppe Meazza,,Head-to-Head,,2022,02,25,Milan vs Udinese
+265,IT,27,Fri,2022-02-25,21:00 (23:00),Genoa,,Inter,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,2022,02,25,Genoa vs Inter
+266,IT,27,Sat,2022-02-26,15:00 (17:00),Salernitana,,Bologna,,Stadio Arechi,,Head-to-Head,,2022,02,26,Salernitana vs Bologna
+267,IT,27,Sat,2022-02-26,18:00 (20:00),Empoli,,Juventus,,Stadio Carlo Castellani,,Head-to-Head,,2022,02,26,Empoli vs Juventus
+268,IT,27,Sat,2022-02-26,20:45 (22:45),Sassuolo,,Fiorentina,,Stadio Città del Tricolore,,Head-to-Head,,2022,02,26,Sassuolo vs Fiorentina
+269,IT,27,Sun,2022-02-27,12:30 (14:30),Torino,,Cagliari,,Stadio Olimpico di Torino,,Head-to-Head,,2022,02,27,Torino vs Cagliari
+270,IT,27,Sun,2022-02-27,15:00 (17:00),Hellas Verona,,Venezia,,Stadio Marc'Antonio Bentegodi,,Head-to-Head,,2022,02,27,Hellas Verona vs Venezia
+271,IT,27,Sun,2022-02-27,18:00 (20:00),Spezia,,Roma,,Stadio Alberto Picco,,Head-to-Head,,2022,02,27,Spezia vs Roma
+272,IT,27,Sun,2022-02-27,20:45 (22:45),Lazio,,Napoli,,Stadio Olimpico,,Head-to-Head,,2022,02,27,Lazio vs Napoli
+273,IT,27,Mon,2022-02-28,20:45 (22:45),Atalanta,,Sampdoria,,Stadio Atleti Azzurri d'Italia,,Head-to-Head,,2022,02,28,Atalanta vs Sampdoria
+274,IT,28,Fri,2022-03-04,20:45 (22:45),Inter,,Salernitana,,Stadio Giuseppe Meazza,,Head-to-Head,,2022,03,04,Inter vs Salernitana
+275,IT,28,Sat,2022-03-05,15:00 (17:00),Udinese,,Sampdoria,,Dacia Arena,,Head-to-Head,,2022,03,05,Udinese vs Sampdoria
+276,IT,28,Sat,2022-03-05,18:00 (20:00),Roma,,Atalanta,,Stadio Olimpico,,Head-to-Head,,2022,03,05,Roma vs Atalanta
+277,IT,28,Sat,2022-03-05,20:45 (22:45),Cagliari,,Lazio,,Sardegna Arena,,Head-to-Head,,2022,03,05,Cagliari vs Lazio
+278,IT,28,Sun,2022-03-06,12:30 (14:30),Genoa,,Empoli,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,2022,03,06,Genoa vs Empoli
+279,IT,28,Sun,2022-03-06,15:00 (17:00),Fiorentina,,Hellas Verona,,Stadio Artemio Franchi,,Head-to-Head,,2022,03,06,Fiorentina vs Hellas Verona
+280,IT,28,Sun,2022-03-06,15:00 (17:00),Venezia,,Sassuolo,,Stadio Pierluigi Penzo,,Head-to-Head,,2022,03,06,Venezia vs Sassuolo
+281,IT,28,Sun,2022-03-06,15:00 (17:00),Bologna,,Torino,,Stadio Renato Dall'Ara,,Head-to-Head,,2022,03,06,Bologna vs Torino
+282,IT,28,Sun,2022-03-06,18:00 (20:00),Juventus,,Spezia,,Allianz Stadium,,Head-to-Head,,2022,03,06,Juventus vs Spezia
+283,IT,28,Sun,2022-03-06,20:45 (22:45),Napoli,,Milan,,Stadio San Paolo,,Head-to-Head,,2022,03,06,Napoli vs Milan
+284,IT,29,Sun,2022-03-13,,Atalanta,,Genoa,,Stadio Atleti Azzurri d'Italia,,Head-to-Head,,2022,03,13,Atalanta vs Genoa
+285,IT,29,Sun,2022-03-13,,Salernitana,,Sassuolo,,Stadio Arechi,,Head-to-Head,,2022,03,13,Salernitana vs Sassuolo
+286,IT,29,Sun,2022-03-13,,Lazio,,Venezia,,Stadio Olimpico,,Head-to-Head,,2022,03,13,Lazio vs Venezia
+287,IT,29,Sun,2022-03-13,,Spezia,,Cagliari,,Stadio Alberto Picco,,Head-to-Head,,2022,03,13,Spezia vs Cagliari
+288,IT,29,Sun,2022-03-13,,Hellas Verona,,Napoli,,Stadio Marc'Antonio Bentegodi,,Head-to-Head,,2022,03,13,Hellas Verona vs Napoli
+289,IT,29,Sun,2022-03-13,,Udinese,,Roma,,Dacia Arena,,Head-to-Head,,2022,03,13,Udinese vs Roma
+290,IT,29,Sun,2022-03-13,,Milan,,Empoli,,Stadio Giuseppe Meazza,,Head-to-Head,,2022,03,13,Milan vs Empoli
+291,IT,29,Sun,2022-03-13,,Sampdoria,,Juventus,,Stadio Comunale Luigi Ferraris,,Head-to-Head,,2022,03,13,Sampdoria vs Juventus
+292,IT,29,Sun,2022-03-13,,Fiorentina,,Bologna,,Stadio Artemio Franchi,,Head-to-Head,,2022,03,13,Fiorentina vs Bologna
+293,IT,29,Sun,2022-03-13,,Torino,,Inter,,Stadio Olimpico di Torino,,Head-to-Head,,2022,03,13,Torino vs Inter
+294,IT,30,Sun,2022-03-20,,Sassuolo,,Spezia,,,,Head-to-Head,,2022,03,20,Sassuolo vs Spezia
+295,IT,30,Sun,2022-03-20,,Napoli,,Udinese,,,,Head-to-Head,,2022,03,20,Napoli vs Udinese
+296,IT,30,Sun,2022-03-20,,Roma,,Lazio,,,,Head-to-Head,,2022,03,20,Roma vs Lazio
+297,IT,30,Sun,2022-03-20,,Genoa,,Torino,,,,Head-to-Head,,2022,03,20,Genoa vs Torino
+298,IT,30,Sun,2022-03-20,,Juventus,,Salernitana,,,,Head-to-Head,,2022,03,20,Juventus vs Salernitana
+299,IT,30,Sun,2022-03-20,,Empoli,,Hellas Verona,,,,Head-to-Head,,2022,03,20,Empoli vs Hellas Verona
+300,IT,30,Sun,2022-03-20,,Bologna,,Atalanta,,,,Head-to-Head,,2022,03,20,Bologna vs Atalanta
+301,IT,30,Sun,2022-03-20,,Cagliari,,Milan,,,,Head-to-Head,,2022,03,20,Cagliari vs Milan
+302,IT,30,Sun,2022-03-20,,Venezia,,Sampdoria,,,,Head-to-Head,,2022,03,20,Venezia vs Sampdoria
+303,IT,30,Sun,2022-03-20,,Inter,,Fiorentina,,,,Head-to-Head,,2022,03,20,Inter vs Fiorentina
+304,IT,31,Sun,2022-04-03,,Milan,,Bologna,,,,Head-to-Head,,2022,04,03,Milan vs Bologna
+305,IT,31,Sun,2022-04-03,,Salernitana,,Torino,,,,Head-to-Head,,2022,04,03,Salernitana vs Torino
+306,IT,31,Sun,2022-04-03,,Fiorentina,,Empoli,,,,Head-to-Head,,2022,04,03,Fiorentina vs Empoli
+307,IT,31,Sun,2022-04-03,,Udinese,,Cagliari,,,,Head-to-Head,,2022,04,03,Udinese vs Cagliari
+308,IT,31,Sun,2022-04-03,,Sampdoria,,Roma,,,,Head-to-Head,,2022,04,03,Sampdoria vs Roma
+309,IT,31,Sun,2022-04-03,,Juventus,,Inter,,,,Head-to-Head,,2022,04,03,Juventus vs Inter
+310,IT,31,Sun,2022-04-03,,Lazio,,Sassuolo,,,,Head-to-Head,,2022,04,03,Lazio vs Sassuolo
+311,IT,31,Sun,2022-04-03,,Hellas Verona,,Genoa,,,,Head-to-Head,,2022,04,03,Hellas Verona vs Genoa
+312,IT,31,Sun,2022-04-03,,Spezia,,Venezia,,,,Head-to-Head,,2022,04,03,Spezia vs Venezia
+313,IT,31,Sun,2022-04-03,,Atalanta,,Napoli,,,,Head-to-Head,,2022,04,03,Atalanta vs Napoli
+314,IT,32,Sun,2022-04-10,,Venezia,,Udinese,,,,Head-to-Head,,2022,04,10,Venezia vs Udinese
+315,IT,32,Sun,2022-04-10,,Roma,,Salernitana,,,,Head-to-Head,,2022,04,10,Roma vs Salernitana
+316,IT,32,Sun,2022-04-10,,Sassuolo,,Atalanta,,,,Head-to-Head,,2022,04,10,Sassuolo vs Atalanta
+317,IT,32,Sun,2022-04-10,,Torino,,Milan,,,,Head-to-Head,,2022,04,10,Torino vs Milan
+318,IT,32,Sun,2022-04-10,,Bologna,,Sampdoria,,,,Head-to-Head,,2022,04,10,Bologna vs Sampdoria
+319,IT,32,Sun,2022-04-10,,Genoa,,Lazio,,,,Head-to-Head,,2022,04,10,Genoa vs Lazio
+320,IT,32,Sun,2022-04-10,,Empoli,,Spezia,,,,Head-to-Head,,2022,04,10,Empoli vs Spezia
+321,IT,32,Sun,2022-04-10,,Cagliari,,Juventus,,,,Head-to-Head,,2022,04,10,Cagliari vs Juventus
+322,IT,32,Sun,2022-04-10,,Inter,,Hellas Verona,,,,Head-to-Head,,2022,04,10,Inter vs Hellas Verona
+323,IT,32,Sun,2022-04-10,,Napoli,,Fiorentina,,,,Head-to-Head,,2022,04,10,Napoli vs Fiorentina
+324,IT,33,Sat,2022-04-16,,Napoli,,Roma,,,,Head-to-Head,,2022,04,16,Napoli vs Roma
+325,IT,33,Sat,2022-04-16,,Udinese,,Empoli,,,,Head-to-Head,,2022,04,16,Udinese vs Empoli
+326,IT,33,Sat,2022-04-16,,Fiorentina,,Venezia,,,,Head-to-Head,,2022,04,16,Fiorentina vs Venezia
+327,IT,33,Sat,2022-04-16,,Cagliari,,Sassuolo,,,,Head-to-Head,,2022,04,16,Cagliari vs Sassuolo
+328,IT,33,Sat,2022-04-16,,Sampdoria,,Salernitana,,,,Head-to-Head,,2022,04,16,Sampdoria vs Salernitana
+329,IT,33,Sat,2022-04-16,,Atalanta,,Hellas Verona,,,,Head-to-Head,,2022,04,16,Atalanta vs Hellas Verona
+330,IT,33,Sat,2022-04-16,,Spezia,,Inter,,,,Head-to-Head,,2022,04,16,Spezia vs Inter
+331,IT,33,Sat,2022-04-16,,Lazio,,Torino,,,,Head-to-Head,,2022,04,16,Lazio vs Torino
+332,IT,33,Sat,2022-04-16,,Milan,,Genoa,,,,Head-to-Head,,2022,04,16,Milan vs Genoa
+333,IT,33,Sat,2022-04-16,,Juventus,,Bologna,,,,Head-to-Head,,2022,04,16,Juventus vs Bologna
+334,IT,34,Sun,2022-04-24,,Bologna,,Udinese,,,,Head-to-Head,,2022,04,24,Bologna vs Udinese
+335,IT,34,Sun,2022-04-24,,Venezia,,Atalanta,,,,Head-to-Head,,2022,04,24,Venezia vs Atalanta
+336,IT,34,Sun,2022-04-24,,Hellas Verona,,Sampdoria,,,,Head-to-Head,,2022,04,24,Hellas Verona vs Sampdoria
+337,IT,34,Sun,2022-04-24,,Salernitana,,Fiorentina,,,,Head-to-Head,,2022,04,24,Salernitana vs Fiorentina
+338,IT,34,Sun,2022-04-24,,Sassuolo,,Juventus,,,,Head-to-Head,,2022,04,24,Sassuolo vs Juventus
+339,IT,34,Sun,2022-04-24,,Lazio,,Milan,,,,Head-to-Head,,2022,04,24,Lazio vs Milan
+340,IT,34,Sun,2022-04-24,,Torino,,Spezia,,,,Head-to-Head,,2022,04,24,Torino vs Spezia
+341,IT,34,Sun,2022-04-24,,Inter,,Roma,,,,Head-to-Head,,2022,04,24,Inter vs Roma
+342,IT,34,Sun,2022-04-24,,Genoa,,Cagliari,,,,Head-to-Head,,2022,04,24,Genoa vs Cagliari
+343,IT,34,Sun,2022-04-24,,Empoli,,Napoli,,,,Head-to-Head,,2022,04,24,Empoli vs Napoli
+344,IT,35,Sun,2022-05-01,,Roma,,Bologna,,,,Head-to-Head,,2022,05,01,Roma vs Bologna
+345,IT,35,Sun,2022-05-01,,Napoli,,Sassuolo,,,,Head-to-Head,,2022,05,01,Napoli vs Sassuolo
+346,IT,35,Sun,2022-05-01,,Empoli,,Torino,,,,Head-to-Head,,2022,05,01,Empoli vs Torino
+347,IT,35,Sun,2022-05-01,,Cagliari,,Hellas Verona,,,,Head-to-Head,,2022,05,01,Cagliari vs Hellas Verona
+348,IT,35,Sun,2022-05-01,,Juventus,,Venezia,,,,Head-to-Head,,2022,05,01,Juventus vs Venezia
+349,IT,35,Sun,2022-05-01,,Milan,,Fiorentina,,,,Head-to-Head,,2022,05,01,Milan vs Fiorentina
+350,IT,35,Sun,2022-05-01,,Spezia,,Lazio,,,,Head-to-Head,,2022,05,01,Spezia vs Lazio
+351,IT,35,Sun,2022-05-01,,Atalanta,,Salernitana,,,,Head-to-Head,,2022,05,01,Atalanta vs Salernitana
+352,IT,35,Sun,2022-05-01,,Sampdoria,,Genoa,,,,Head-to-Head,,2022,05,01,Sampdoria vs Genoa
+353,IT,35,Sun,2022-05-01,,Udinese,,Inter,,,,Head-to-Head,,2022,05,01,Udinese vs Inter
+354,IT,36,Sun,2022-05-08,,Sassuolo,,Udinese,,,,Head-to-Head,,2022,05,08,Sassuolo vs Udinese
+355,IT,36,Sun,2022-05-08,,Torino,,Napoli,,,,Head-to-Head,,2022,05,08,Torino vs Napoli
+356,IT,36,Sun,2022-05-08,,Genoa,,Juventus,,,,Head-to-Head,,2022,05,08,Genoa vs Juventus
+357,IT,36,Sun,2022-05-08,,Lazio,,Sampdoria,,,,Head-to-Head,,2022,05,08,Lazio vs Sampdoria
+358,IT,36,Sun,2022-05-08,,Fiorentina,,Roma,,,,Head-to-Head,,2022,05,08,Fiorentina vs Roma
+359,IT,36,Sun,2022-05-08,,Hellas Verona,,Milan,,,,Head-to-Head,,2022,05,08,Hellas Verona vs Milan
+360,IT,36,Sun,2022-05-08,,Salernitana,,Cagliari,,,,Head-to-Head,,2022,05,08,Salernitana vs Cagliari
+361,IT,36,Sun,2022-05-08,,Venezia,,Bologna,,,,Head-to-Head,,2022,05,08,Venezia vs Bologna
+362,IT,36,Sun,2022-05-08,,Spezia,,Atalanta,,,,Head-to-Head,,2022,05,08,Spezia vs Atalanta
+363,IT,36,Sun,2022-05-08,,Inter,,Empoli,,,,Head-to-Head,,2022,05,08,Inter vs Empoli
+364,IT,37,Sun,2022-05-15,,Udinese,,Spezia,,,,Head-to-Head,,2022,05,15,Udinese vs Spezia
+365,IT,37,Sun,2022-05-15,,Bologna,,Sassuolo,,,,Head-to-Head,,2022,05,15,Bologna vs Sassuolo
+366,IT,37,Sun,2022-05-15,,Hellas Verona,,Torino,,,,Head-to-Head,,2022,05,15,Hellas Verona vs Torino
+367,IT,37,Sun,2022-05-15,,Napoli,,Genoa,,,,Head-to-Head,,2022,05,15,Napoli vs Genoa
+368,IT,37,Sun,2022-05-15,,Juventus,,Lazio,,,,Head-to-Head,,2022,05,15,Juventus vs Lazio
+369,IT,37,Sun,2022-05-15,,Sampdoria,,Fiorentina,,,,Head-to-Head,,2022,05,15,Sampdoria vs Fiorentina
+370,IT,37,Sun,2022-05-15,,Empoli,,Salernitana,,,,Head-to-Head,,2022,05,15,Empoli vs Salernitana
+371,IT,37,Sun,2022-05-15,,Roma,,Venezia,,,,Head-to-Head,,2022,05,15,Roma vs Venezia
+372,IT,37,Sun,2022-05-15,,Cagliari,,Inter,,,,Head-to-Head,,2022,05,15,Cagliari vs Inter
+373,IT,37,Sun,2022-05-15,,Milan,,Atalanta,,,,Head-to-Head,,2022,05,15,Milan vs Atalanta
+374,IT,38,Sun,2022-05-22,,Torino,,Roma,,,,Head-to-Head,,2022,05,22,Torino vs Roma
+375,IT,38,Sun,2022-05-22,,Lazio,,Hellas Verona,,,,Head-to-Head,,2022,05,22,Lazio vs Hellas Verona
+376,IT,38,Sun,2022-05-22,,Salernitana,,Udinese,,,,Head-to-Head,,2022,05,22,Salernitana vs Udinese
+377,IT,38,Sun,2022-05-22,,Fiorentina,,Juventus,,,,Head-to-Head,,2022,05,22,Fiorentina vs Juventus
+378,IT,38,Sun,2022-05-22,,Spezia,,Napoli,,,,Head-to-Head,,2022,05,22,Spezia vs Napoli
+379,IT,38,Sun,2022-05-22,,Atalanta,,Empoli,,,,Head-to-Head,,2022,05,22,Atalanta vs Empoli
+380,IT,38,Sun,2022-05-22,,Genoa,,Bologna,,,,Head-to-Head,,2022,05,22,Genoa vs Bologna
+381,IT,38,Sun,2022-05-22,,Inter,,Sampdoria,,,,Head-to-Head,,2022,05,22,Inter vs Sampdoria
+382,IT,38,Sun,2022-05-22,,Venezia,,Cagliari,,,,Head-to-Head,,2022,05,22,Venezia vs Cagliari
+383,IT,38,Sun,2022-05-22,,Sassuolo,,Milan,,,,Head-to-Head,,2022,05,22,Sassuolo vs Milan
+384,FL,25,Fri,2022-02-18,21:00 (23:00),Lille,,Metz,,Stade Pierre-Mauroy,,Head-to-Head,,2022,02,18,Lille vs Metz
+385,FL,25,Sat,2022-02-19,17:00 (19:00),Lens,,Lyon,,Stade Bollaert-Delelis,,Head-to-Head,,2022,02,19,Lens vs Lyon
+386,FL,25,Sat,2022-02-19,21:00 (23:00),Nantes,,Paris S-G,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,02,19,Nantes vs Paris S-G
+387,FL,25,Sun,2022-02-20,13:00 (15:00),Nice,,Angers,,Stade de Nice,,Head-to-Head,,2022,02,20,Nice vs Angers
+388,FL,25,Sun,2022-02-20,15:00 (17:00),Rennes,,Troyes,,Roazhon Park,,Head-to-Head,,2022,02,20,Rennes vs Troyes
+389,FL,25,Sun,2022-02-20,15:00 (17:00),Lorient,,Montpellier,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,02,20,Lorient vs Montpellier
+390,FL,25,Sun,2022-02-20,15:00 (17:00),Reims,,Brest,,Stade Auguste-Delaune II,,Head-to-Head,,2022,02,20,Reims vs Brest
+391,FL,25,Sun,2022-02-20,15:00 (17:00),Saint-Étienne,,Strasbourg,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,02,20,Saint-Étienne vs Strasbourg
+392,FL,25,Sun,2022-02-20,17:05 (19:05),Bordeaux,,Monaco,,Stade Matmut-Atlantique,,Head-to-Head,,2022,02,20,Bordeaux vs Monaco
+393,FL,25,Sun,2022-02-20,20:45 (22:45),Marseille,,Clermont Foot,,Orange Vélodrome,,Head-to-Head,,2022,02,20,Marseille vs Clermont Foot
+394,FL,26,Fri,2022-02-25,21:00 (23:00),Montpellier,,Rennes,,Stade de la Mosson,,Head-to-Head,,2022,02,25,Montpellier vs Rennes
+395,FL,26,Sat,2022-02-26,17:00 (19:00),Monaco,,Reims,,Stade Louis II.,,Head-to-Head,,2022,02,26,Monaco vs Reims
+396,FL,26,Sat,2022-02-26,21:00 (23:00),Paris S-G,,Saint-Étienne,,Parc des Princes,,Head-to-Head,,2022,02,26,Paris S-G vs Saint-Étienne
+397,FL,26,Sun,2022-02-27,13:00 (15:00),Strasbourg,,Nice,,Stade de la Meinau,,Head-to-Head,,2022,02,27,Strasbourg vs Nice
+398,FL,26,Sun,2022-02-27,15:00 (17:00),Angers,,Lens,,Stade Raymond Kopa,,Head-to-Head,,2022,02,27,Angers vs Lens
+399,FL,26,Sun,2022-02-27,15:00 (17:00),Metz,,Nantes,,Stade Saint-Symphorien,,Head-to-Head,,2022,02,27,Metz vs Nantes
+400,FL,26,Sun,2022-02-27,15:00 (17:00),Clermont Foot,,Bordeaux,,Stade Gabriel Montpied,,Head-to-Head,,2022,02,27,Clermont Foot vs Bordeaux
+401,FL,26,Sun,2022-02-27,15:00 (17:00),Brest,,Lorient,,Stade Francis-Le Blé,,Head-to-Head,,2022,02,27,Brest vs Lorient
+402,FL,26,Sun,2022-02-27,17:05 (19:05),Troyes,,Marseille,,Stade de l'Aube,,Head-to-Head,,2022,02,27,Troyes vs Marseille
+403,FL,26,Sun,2022-02-27,20:45 (22:45),Lyon,,Lille,,Groupama Stadium,,Head-to-Head,,2022,02,27,Lyon vs Lille
+404,FL,27,Sun,2022-03-06,,Nice,,Paris S-G,,Stade de Nice,,Head-to-Head,,2022,03,06,Nice vs Paris S-G
+405,FL,27,Sun,2022-03-06,,Marseille,,Monaco,,Orange Vélodrome,,Head-to-Head,,2022,03,06,Marseille vs Monaco
+406,FL,27,Sun,2022-03-06,,Rennes,,Angers,,Roazhon Park,,Head-to-Head,,2022,03,06,Rennes vs Angers
+407,FL,27,Sun,2022-03-06,,Nantes,,Montpellier,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,03,06,Nantes vs Montpellier
+408,FL,27,Sun,2022-03-06,,Lens,,Brest,,Stade Bollaert-Delelis,,Head-to-Head,,2022,03,06,Lens vs Brest
+409,FL,27,Sun,2022-03-06,,Bordeaux,,Troyes,,Stade Matmut-Atlantique,,Head-to-Head,,2022,03,06,Bordeaux vs Troyes
+410,FL,27,Sun,2022-03-06,,Saint-Étienne,,Metz,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,03,06,Saint-Étienne vs Metz
+411,FL,27,Sun,2022-03-06,,Lille,,Clermont Foot,,Stade Pierre-Mauroy,,Head-to-Head,,2022,03,06,Lille vs Clermont Foot
+412,FL,27,Sun,2022-03-06,,Lorient,,Lyon,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,03,06,Lorient vs Lyon
+413,FL,27,Sun,2022-03-06,,Reims,,Strasbourg,,Stade Auguste-Delaune II,,Head-to-Head,,2022,03,06,Reims vs Strasbourg
+414,FL,28,Sun,2022-03-13,,Lille,,Saint-Étienne,,Stade Pierre-Mauroy,,Head-to-Head,,2022,03,13,Lille vs Saint-Étienne
+415,FL,28,Sun,2022-03-13,,Troyes,,Nantes,,Stade de l'Aube,,Head-to-Head,,2022,03,13,Troyes vs Nantes
+416,FL,28,Sun,2022-03-13,,Montpellier,,Nice,,Stade de la Mosson,,Head-to-Head,,2022,03,13,Montpellier vs Nice
+417,FL,28,Sun,2022-03-13,,Metz,,Lens,,Stade Saint-Symphorien,,Head-to-Head,,2022,03,13,Metz vs Lens
+418,FL,28,Sun,2022-03-13,,Brest,,Marseille,,Stade Francis-Le Blé,,Head-to-Head,,2022,03,13,Brest vs Marseille
+419,FL,28,Sun,2022-03-13,,Strasbourg,,Monaco,,Stade de la Meinau,,Head-to-Head,,2022,03,13,Strasbourg vs Monaco
+420,FL,28,Sun,2022-03-13,,Lyon,,Rennes,,Groupama Stadium,,Head-to-Head,,2022,03,13,Lyon vs Rennes
+421,FL,28,Sun,2022-03-13,13:00 (15:00),Paris S-G,,Bordeaux,,Parc des Princes,,Head-to-Head,,2022,03,13,Paris S-G vs Bordeaux
+422,FL,28,Sun,2022-03-13,15:00 (17:00),Angers,,Reims,,Stade Raymond Kopa,,Head-to-Head,,2022,03,13,Angers vs Reims
+423,FL,28,Sun,2022-03-13,15:00 (17:00),Clermont Foot,,Lorient,,Stade Gabriel Montpied,,Head-to-Head,,2022,03,13,Clermont Foot vs Lorient
+424,FL,29,Sun,2022-03-20,,Angers,,Brest,,Stade Raymond Kopa,,Head-to-Head,,2022,03,20,Angers vs Brest
+425,FL,29,Sun,2022-03-20,,Nantes,,Lille,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,03,20,Nantes vs Lille
+426,FL,29,Sun,2022-03-20,,Saint-Étienne,,Troyes,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,03,20,Saint-Étienne vs Troyes
+427,FL,29,Sun,2022-03-20,,Reims,,Lyon,,Stade Auguste-Delaune II,,Head-to-Head,,2022,03,20,Reims vs Lyon
+428,FL,29,Sun,2022-03-20,,Lorient,,Strasbourg,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,03,20,Lorient vs Strasbourg
+429,FL,29,Sun,2022-03-20,,Monaco,,Paris S-G,,Stade Louis II.,,Head-to-Head,,2022,03,20,Monaco vs Paris S-G
+430,FL,29,Sun,2022-03-20,,Lens,,Clermont Foot,,Stade Bollaert-Delelis,,Head-to-Head,,2022,03,20,Lens vs Clermont Foot
+431,FL,29,Sun,2022-03-20,,Rennes,,Metz,,Roazhon Park,,Head-to-Head,,2022,03,20,Rennes vs Metz
+432,FL,29,Sun,2022-03-20,,Bordeaux,,Montpellier,,Stade Matmut-Atlantique,,Head-to-Head,,2022,03,20,Bordeaux vs Montpellier
+433,FL,29,Sun,2022-03-20,20:45 (22:45),Marseille,,Nice,,Orange Vélodrome,,Head-to-Head,,2022,03,20,Marseille vs Nice
+434,FL,30,Sun,2022-04-03,,Lyon,,Angers,,Groupama Stadium,,Head-to-Head,,2022,04,03,Lyon vs Angers
+435,FL,30,Sun,2022-04-03,,Montpellier,,Brest,,Stade de la Mosson,,Head-to-Head,,2022,04,03,Montpellier vs Brest
+436,FL,30,Sun,2022-04-03,,Clermont Foot,,Nantes,,Stade Gabriel Montpied,,Head-to-Head,,2022,04,03,Clermont Foot vs Nantes
+437,FL,30,Sun,2022-04-03,,Strasbourg,,Lens,,Stade de la Meinau,,Head-to-Head,,2022,04,03,Strasbourg vs Lens
+438,FL,30,Sun,2022-04-03,,Lille,,Bordeaux,,Stade Pierre-Mauroy,,Head-to-Head,,2022,04,03,Lille vs Bordeaux
+439,FL,30,Sun,2022-04-03,,Nice,,Rennes,,Stade de Nice,,Head-to-Head,,2022,04,03,Nice vs Rennes
+440,FL,30,Sun,2022-04-03,,Paris S-G,,Lorient,,Parc des Princes,,Head-to-Head,,2022,04,03,Paris S-G vs Lorient
+441,FL,30,Sun,2022-04-03,,Saint-Étienne,,Marseille,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,04,03,Saint-Étienne vs Marseille
+442,FL,30,Sun,2022-04-03,,Metz,,Monaco,,Stade Saint-Symphorien,,Head-to-Head,,2022,04,03,Metz vs Monaco
+443,FL,30,Sun,2022-04-03,,Troyes,,Reims,,Stade de l'Aube,,Head-to-Head,,2022,04,03,Troyes vs Reims
+444,FL,31,Sun,2022-04-10,,Angers,,Lille,,Stade Raymond Kopa,,Head-to-Head,,2022,04,10,Angers vs Lille
+445,FL,31,Sun,2022-04-10,,Reims,,Rennes,,Stade Auguste-Delaune II,,Head-to-Head,,2022,04,10,Reims vs Rennes
+446,FL,31,Sun,2022-04-10,,Lorient,,Saint-Étienne,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,04,10,Lorient vs Saint-Étienne
+447,FL,31,Sun,2022-04-10,,Lens,,Nice,,Stade Bollaert-Delelis,,Head-to-Head,,2022,04,10,Lens vs Nice
+448,FL,31,Sun,2022-04-10,,Marseille,,Montpellier,,Orange Vélodrome,,Head-to-Head,,2022,04,10,Marseille vs Montpellier
+449,FL,31,Sun,2022-04-10,,Bordeaux,,Metz,,Stade Matmut-Atlantique,,Head-to-Head,,2022,04,10,Bordeaux vs Metz
+450,FL,31,Sun,2022-04-10,,Strasbourg,,Lyon,,Stade de la Meinau,,Head-to-Head,,2022,04,10,Strasbourg vs Lyon
+451,FL,31,Sun,2022-04-10,,Monaco,,Troyes,,Stade Louis II.,,Head-to-Head,,2022,04,10,Monaco vs Troyes
+452,FL,31,Sun,2022-04-10,,Clermont Foot,,Paris S-G,,Stade Gabriel Montpied,,Head-to-Head,,2022,04,10,Clermont Foot vs Paris S-G
+453,FL,31,Sun,2022-04-10,,Brest,,Nantes,,Stade Francis-Le Blé,,Head-to-Head,,2022,04,10,Brest vs Nantes
+454,FL,32,Sun,2022-04-17,,Paris S-G,,Marseille,,Parc des Princes,,Head-to-Head,,2022,04,17,Paris S-G vs Marseille
+455,FL,32,Sun,2022-04-17,,Metz,,Clermont Foot,,Stade Saint-Symphorien,,Head-to-Head,,2022,04,17,Metz vs Clermont Foot
+456,FL,32,Sun,2022-04-17,,Troyes,,Strasbourg,,Stade de l'Aube,,Head-to-Head,,2022,04,17,Troyes vs Strasbourg
+457,FL,32,Sun,2022-04-17,,Nice,,Lorient,,Stade de Nice,,Head-to-Head,,2022,04,17,Nice vs Lorient
+458,FL,32,Sun,2022-04-17,,Saint-Étienne,,Brest,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,04,17,Saint-Étienne vs Brest
+459,FL,32,Sun,2022-04-17,,Lyon,,Bordeaux,,Groupama Stadium,,Head-to-Head,,2022,04,17,Lyon vs Bordeaux
+460,FL,32,Sun,2022-04-17,,Montpellier,,Reims,,Stade de la Mosson,,Head-to-Head,,2022,04,17,Montpellier vs Reims
+461,FL,32,Sun,2022-04-17,,Nantes,,Angers,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,04,17,Nantes vs Angers
+462,FL,32,Sun,2022-04-17,,Lille,,Lens,,Stade Pierre-Mauroy,,Head-to-Head,,2022,04,17,Lille vs Lens
+463,FL,32,Sun,2022-04-17,,Rennes,,Monaco,,Roazhon Park,,Head-to-Head,,2022,04,17,Rennes vs Monaco
+464,FL,33,Wed,2022-04-20,,Troyes,,Clermont Foot,,Stade de l'Aube,,Head-to-Head,,2022,04,20,Troyes vs Clermont Foot
+465,FL,33,Wed,2022-04-20,,Lens,,Montpellier,,Stade Bollaert-Delelis,,Head-to-Head,,2022,04,20,Lens vs Montpellier
+466,FL,33,Wed,2022-04-20,,Reims,,Lille,,Stade Auguste-Delaune II,,Head-to-Head,,2022,04,20,Reims vs Lille
+467,FL,33,Wed,2022-04-20,,Strasbourg,,Rennes,,Stade de la Meinau,,Head-to-Head,,2022,04,20,Strasbourg vs Rennes
+468,FL,33,Wed,2022-04-20,,Monaco,,Nice,,Stade Louis II.,,Head-to-Head,,2022,04,20,Monaco vs Nice
+469,FL,33,Wed,2022-04-20,,Angers,,Paris S-G,,Stade Raymond Kopa,,Head-to-Head,,2022,04,20,Angers vs Paris S-G
+470,FL,33,Wed,2022-04-20,,Marseille,,Nantes,,Orange Vélodrome,,Head-to-Head,,2022,04,20,Marseille vs Nantes
+471,FL,33,Wed,2022-04-20,,Brest,,Lyon,,Stade Francis-Le Blé,,Head-to-Head,,2022,04,20,Brest vs Lyon
+472,FL,33,Wed,2022-04-20,,Lorient,,Metz,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,04,20,Lorient vs Metz
+473,FL,33,Wed,2022-04-20,,Bordeaux,,Saint-Étienne,,Stade Matmut-Atlantique,,Head-to-Head,,2022,04,20,Bordeaux vs Saint-Étienne
+474,FL,34,Sun,2022-04-24,,Nantes,,Bordeaux,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,04,24,Nantes vs Bordeaux
+475,FL,34,Sun,2022-04-24,,Rennes,,Lorient,,Roazhon Park,,Head-to-Head,,2022,04,24,Rennes vs Lorient
+476,FL,34,Sun,2022-04-24,,Nice,,Troyes,,Stade de Nice,,Head-to-Head,,2022,04,24,Nice vs Troyes
+477,FL,34,Sun,2022-04-24,,Paris S-G,,Lens,,Parc des Princes,,Head-to-Head,,2022,04,24,Paris S-G vs Lens
+478,FL,34,Sun,2022-04-24,,Saint-Étienne,,Monaco,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,04,24,Saint-Étienne vs Monaco
+479,FL,34,Sun,2022-04-24,,Clermont Foot,,Angers,,Stade Gabriel Montpied,,Head-to-Head,,2022,04,24,Clermont Foot vs Angers
+480,FL,34,Sun,2022-04-24,,Metz,,Brest,,Stade Saint-Symphorien,,Head-to-Head,,2022,04,24,Metz vs Brest
+481,FL,34,Sun,2022-04-24,,Reims,,Marseille,,Stade Auguste-Delaune II,,Head-to-Head,,2022,04,24,Reims vs Marseille
+482,FL,34,Sun,2022-04-24,,Lyon,,Montpellier,,Groupama Stadium,,Head-to-Head,,2022,04,24,Lyon vs Montpellier
+483,FL,34,Sun,2022-04-24,,Lille,,Strasbourg,,Stade Pierre-Mauroy,,Head-to-Head,,2022,04,24,Lille vs Strasbourg
+484,FL,35,Sun,2022-05-01,,Strasbourg,,Paris S-G,,Stade de la Meinau,,Head-to-Head,,2022,05,01,Strasbourg vs Paris S-G
+485,FL,35,Sun,2022-05-01,,Lorient,,Reims,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,05,01,Lorient vs Reims
+486,FL,35,Sun,2022-05-01,,Marseille,,Lyon,,Orange Vélodrome,,Head-to-Head,,2022,05,01,Marseille vs Lyon
+487,FL,35,Sun,2022-05-01,,Bordeaux,,Nice,,Stade Matmut-Atlantique,,Head-to-Head,,2022,05,01,Bordeaux vs Nice
+488,FL,35,Sun,2022-05-01,,Brest,,Clermont Foot,,Stade Francis-Le Blé,,Head-to-Head,,2022,05,01,Brest vs Clermont Foot
+489,FL,35,Sun,2022-05-01,,Troyes,,Lille,,Stade de l'Aube,,Head-to-Head,,2022,05,01,Troyes vs Lille
+490,FL,35,Sun,2022-05-01,,Lens,,Nantes,,Stade Bollaert-Delelis,,Head-to-Head,,2022,05,01,Lens vs Nantes
+491,FL,35,Sun,2022-05-01,,Montpellier,,Metz,,Stade de la Mosson,,Head-to-Head,,2022,05,01,Montpellier vs Metz
+492,FL,35,Sun,2022-05-01,,Monaco,,Angers,,Stade Louis II.,,Head-to-Head,,2022,05,01,Monaco vs Angers
+493,FL,35,Sun,2022-05-01,,Rennes,,Saint-Étienne,,Roazhon Park,,Head-to-Head,,2022,05,01,Rennes vs Saint-Étienne
+494,FL,36,Sun,2022-05-08,,Metz,,Lyon,,Stade Saint-Symphorien,,Head-to-Head,,2022,05,08,Metz vs Lyon
+495,FL,36,Sun,2022-05-08,,Lille,,Monaco,,Stade Pierre-Mauroy,,Head-to-Head,,2022,05,08,Lille vs Monaco
+496,FL,36,Sun,2022-05-08,,Paris S-G,,Troyes,,Parc des Princes,,Head-to-Head,,2022,05,08,Paris S-G vs Troyes
+497,FL,36,Sun,2022-05-08,,Lorient,,Marseille,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,05,08,Lorient vs Marseille
+498,FL,36,Sun,2022-05-08,,Brest,,Strasbourg,,Stade Francis-Le Blé,,Head-to-Head,,2022,05,08,Brest vs Strasbourg
+499,FL,36,Sun,2022-05-08,,Angers,,Bordeaux,,Stade Raymond Kopa,,Head-to-Head,,2022,05,08,Angers vs Bordeaux
+500,FL,36,Sun,2022-05-08,,Clermont Foot,,Montpellier,,Stade Gabriel Montpied,,Head-to-Head,,2022,05,08,Clermont Foot vs Montpellier
+501,FL,36,Sun,2022-05-08,,Reims,,Lens,,Stade Auguste-Delaune II,,Head-to-Head,,2022,05,08,Reims vs Lens
+502,FL,36,Sun,2022-05-08,,Nantes,,Rennes,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,05,08,Nantes vs Rennes
+503,FL,36,Sun,2022-05-08,,Nice,,Saint-Étienne,,Stade de Nice,,Head-to-Head,,2022,05,08,Nice vs Saint-Étienne
+504,FL,37,Sat,2022-05-14,,Rennes,,Marseille,,Roazhon Park,,Head-to-Head,,2022,05,14,Rennes vs Marseille
+505,FL,37,Sat,2022-05-14,,Troyes,,Lens,,Stade de l'Aube,,Head-to-Head,,2022,05,14,Troyes vs Lens
+506,FL,37,Sat,2022-05-14,,Saint-Étienne,,Reims,,Stade Geoffroy-Guichard,,Head-to-Head,,2022,05,14,Saint-Étienne vs Reims
+507,FL,37,Sat,2022-05-14,,Bordeaux,,Lorient,,Stade Matmut-Atlantique,,Head-to-Head,,2022,05,14,Bordeaux vs Lorient
+508,FL,37,Sat,2022-05-14,,Strasbourg,,Clermont Foot,,Stade de la Meinau,,Head-to-Head,,2022,05,14,Strasbourg vs Clermont Foot
+509,FL,37,Sat,2022-05-14,,Montpellier,,Paris S-G,,Stade de la Mosson,,Head-to-Head,,2022,05,14,Montpellier vs Paris S-G
+510,FL,37,Sat,2022-05-14,,Lyon,,Nantes,,Groupama Stadium,,Head-to-Head,,2022,05,14,Lyon vs Nantes
+511,FL,37,Sat,2022-05-14,,Monaco,,Brest,,Stade Louis II.,,Head-to-Head,,2022,05,14,Monaco vs Brest
+512,FL,37,Sat,2022-05-14,,Nice,,Lille,,Stade de Nice,,Head-to-Head,,2022,05,14,Nice vs Lille
+513,FL,37,Sat,2022-05-14,,Metz,,Angers,,Stade Saint-Symphorien,,Head-to-Head,,2022,05,14,Metz vs Angers
+514,FL,38,Sat,2022-05-21,,Paris S-G,,Metz,,Parc des Princes,,Head-to-Head,,2022,05,21,Paris S-G vs Metz
+515,FL,38,Sat,2022-05-21,,Angers,,Montpellier,,Stade Raymond Kopa,,Head-to-Head,,2022,05,21,Angers vs Montpellier
+516,FL,38,Sat,2022-05-21,,Lens,,Monaco,,Stade Bollaert-Delelis,,Head-to-Head,,2022,05,21,Lens vs Monaco
+517,FL,38,Sat,2022-05-21,,Reims,,Nice,,Stade Auguste-Delaune II,,Head-to-Head,,2022,05,21,Reims vs Nice
+518,FL,38,Sat,2022-05-21,,Lille,,Rennes,,Stade Pierre-Mauroy,,Head-to-Head,,2022,05,21,Lille vs Rennes
+519,FL,38,Sat,2022-05-21,,Nantes,,Saint-Étienne,,Stade de la Beaujoire - Louis Fonteneau,,Head-to-Head,,2022,05,21,Nantes vs Saint-Étienne
+520,FL,38,Sat,2022-05-21,,Lorient,,Troyes,,Stade Yves Allainmat - Le Moustoir,,Head-to-Head,,2022,05,21,Lorient vs Troyes
+521,FL,38,Sat,2022-05-21,,Clermont Foot,,Lyon,,Stade Gabriel Montpied,,Head-to-Head,,2022,05,21,Clermont Foot vs Lyon
+522,FL,38,Sat,2022-05-21,,Marseille,,Strasbourg,,Orange Vélodrome,,Head-to-Head,,2022,05,21,Marseille vs Strasbourg
+523,FL,38,Sat,2022-05-21,,Brest,,Bordeaux,,Stade Francis-Le Blé,,Head-to-Head,,2022,05,21,Brest vs Bordeaux
+524,BL,23,Fri,2022-02-18,20:30 (22:30),Mainz 05,,Leverkusen,,Opel Arena,,Head-to-Head,,2022,02,18,Mainz 05 vs Leverkusen
+525,BL,23,Sat,2022-02-19,15:30 (17:30),Stuttgart,,Bochum,,Mercedes-Benz Arena,,Head-to-Head,,2022,02,19,Stuttgart vs Bochum
+526,BL,23,Sat,2022-02-19,15:30 (17:30),Augsburg,,Freiburg,,WWK Arena,,Head-to-Head,,2022,02,19,Augsburg vs Freiburg
+527,BL,23,Sat,2022-02-19,15:30 (17:30),Wolfsburg,,Hoffenheim,,Volkswagen Arena,,Head-to-Head,,2022,02,19,Wolfsburg vs Hoffenheim
+528,BL,23,Sat,2022-02-19,15:30 (17:30),Arminia,,Union Berlin,,SchücoArena,,Head-to-Head,,2022,02,19,Arminia vs Union Berlin
+529,BL,23,Sat,2022-02-19,18:30 (20:30),Köln,,Eint Frankfurt,,RheinEnergieSTADION,,Head-to-Head,,2022,02,19,Köln vs Eint Frankfurt
+530,BL,23,Sun,2022-02-20,15:30 (17:30),Bayern Munich,,Greuther Fürth,,Allianz Arena,,Head-to-Head,,2022,02,20,Bayern Munich vs Greuther Fürth
+531,BL,23,Sun,2022-02-20,17:30 (19:30),Dortmund,,M'Gladbach,,Signal Iduna Park,,Head-to-Head,,2022,02,20,Dortmund vs M'Gladbach
+532,BL,23,Sun,2022-02-20,19:30 (21:30),Hertha BSC,,RB Leipzig,,Olympiastadion Berlin,,Head-to-Head,,2022,02,20,Hertha BSC vs RB Leipzig
+533,BL,24,Fri,2022-02-25,20:30 (22:30),Hoffenheim,,Stuttgart,,PreZero Arena,,Head-to-Head,,2022,02,25,Hoffenheim vs Stuttgart
+534,BL,24,Sat,2022-02-26,15:30 (17:30),Freiburg,,Hertha BSC,,Europa-Park Stadion,,Head-to-Head,,2022,02,26,Freiburg vs Hertha BSC
+535,BL,24,Sat,2022-02-26,15:30 (17:30),Leverkusen,,Arminia,,BayArena,,Head-to-Head,,2022,02,26,Leverkusen vs Arminia
+536,BL,24,Sat,2022-02-26,15:30 (17:30),Greuther Fürth,,Köln,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,02,26,Greuther Fürth vs Köln
+537,BL,24,Sat,2022-02-26,15:30 (17:30),M'Gladbach,,Wolfsburg,,Stadion im Borussia-Park,,Head-to-Head,,2022,02,26,M'Gladbach vs Wolfsburg
+538,BL,24,Sat,2022-02-26,15:30 (17:30),Union Berlin,,Mainz 05,,Stadion An der Alten Försterei,,Head-to-Head,,2022,02,26,Union Berlin vs Mainz 05
+539,BL,24,Sat,2022-02-26,18:30 (20:30),Eint Frankfurt,,Bayern Munich,,Commerzbank-Arena,,Head-to-Head,,2022,02,26,Eint Frankfurt vs Bayern Munich
+540,BL,24,Sun,2022-02-27,15:30 (17:30),Bochum,,RB Leipzig,,Vonovia Ruhrstadion,,Head-to-Head,,2022,02,27,Bochum vs RB Leipzig
+541,BL,24,Sun,2022-02-27,17:30 (19:30),Augsburg,,Dortmund,,WWK Arena,,Head-to-Head,,2022,02,27,Augsburg vs Dortmund
+542,BL,25,Fri,2022-03-04,20:30 (22:30),Arminia,,Augsburg,,SchücoArena,,Head-to-Head,,2022,03,04,Arminia vs Augsburg
+543,BL,25,Sat,2022-03-05,15:30 (17:30),Bayern Munich,,Leverkusen,,Allianz Arena,,Head-to-Head,,2022,03,05,Bayern Munich vs Leverkusen
+544,BL,25,Sat,2022-03-05,15:30 (17:30),Bochum,,Greuther Fürth,,Vonovia Ruhrstadion,,Head-to-Head,,2022,03,05,Bochum vs Greuther Fürth
+545,BL,25,Sat,2022-03-05,15:30 (17:30),Hertha BSC,,Eint Frankfurt,,Olympiastadion Berlin,,Head-to-Head,,2022,03,05,Hertha BSC vs Eint Frankfurt
+546,BL,25,Sat,2022-03-05,15:30 (17:30),RB Leipzig,,Freiburg,,Red Bull Arena,,Head-to-Head,,2022,03,05,RB Leipzig vs Freiburg
+547,BL,25,Sat,2022-03-05,15:30 (17:30),Wolfsburg,,Union Berlin,,Volkswagen Arena,,Head-to-Head,,2022,03,05,Wolfsburg vs Union Berlin
+548,BL,25,Sat,2022-03-05,18:30 (20:30),Stuttgart,,M'Gladbach,,Mercedes-Benz Arena,,Head-to-Head,,2022,03,05,Stuttgart vs M'Gladbach
+549,BL,25,Sun,2022-03-06,15:30 (17:30),Mainz 05,,Dortmund,,Opel Arena,,Head-to-Head,,2022,03,06,Mainz 05 vs Dortmund
+550,BL,25,Sun,2022-03-06,17:30 (19:30),Köln,,Hoffenheim,,RheinEnergieSTADION,,Head-to-Head,,2022,03,06,Köln vs Hoffenheim
+551,BL,26,Sat,2022-03-12,15:30 (17:30),Freiburg,,Wolfsburg,,Europa-Park Stadion,,Head-to-Head,,2022,03,12,Freiburg vs Wolfsburg
+552,BL,26,Sat,2022-03-12,15:30 (17:30),Union Berlin,,Stuttgart,,Stadion An der Alten Försterei,,Head-to-Head,,2022,03,12,Union Berlin vs Stuttgart
+553,BL,26,Sat,2022-03-12,15:30 (17:30),Hoffenheim,,Bayern Munich,,PreZero Arena,,Head-to-Head,,2022,03,12,Hoffenheim vs Bayern Munich
+554,BL,26,Sat,2022-03-12,15:30 (17:30),Augsburg,,Mainz 05,,WWK Arena,,Head-to-Head,,2022,03,12,Augsburg vs Mainz 05
+555,BL,26,Sat,2022-03-12,18:30 (20:30),M'Gladbach,,Hertha BSC,,Stadion im Borussia-Park,,Head-to-Head,,2022,03,12,M'Gladbach vs Hertha BSC
+556,BL,26,Sun,2022-03-13,15:30 (17:30),Leverkusen,,Köln,,BayArena,,Head-to-Head,,2022,03,13,Leverkusen vs Köln
+557,BL,26,Sun,2022-03-13,17:30 (19:30),Dortmund,,Arminia,,Signal Iduna Park,,Head-to-Head,,2022,03,13,Dortmund vs Arminia
+558,BL,26,Sun,2022-03-13,17:30 (19:30),Eint Frankfurt,,Bochum,,Commerzbank-Arena,,Head-to-Head,,2022,03,13,Eint Frankfurt vs Bochum
+559,BL,26,Sun,2022-03-13,19:30 (21:30),Greuther Fürth,,RB Leipzig,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,03,13,Greuther Fürth vs RB Leipzig
+560,BL,27,Fri,2022-03-18,20:30 (22:30),Bochum,,M'Gladbach,,Vonovia Ruhrstadion,,Head-to-Head,,2022,03,18,Bochum vs M'Gladbach
+561,BL,27,Sat,2022-03-19,15:30 (17:30),Mainz 05,,Arminia,,Opel Arena,,Head-to-Head,,2022,03,19,Mainz 05 vs Arminia
+562,BL,27,Sat,2022-03-19,15:30 (17:30),Stuttgart,,Augsburg,,Mercedes-Benz Arena,,Head-to-Head,,2022,03,19,Stuttgart vs Augsburg
+563,BL,27,Sat,2022-03-19,15:30 (17:30),Hertha BSC,,Hoffenheim,,Olympiastadion Berlin,,Head-to-Head,,2022,03,19,Hertha BSC vs Hoffenheim
+564,BL,27,Sat,2022-03-19,15:30 (17:30),Greuther Fürth,,Freiburg,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,03,19,Greuther Fürth vs Freiburg
+565,BL,27,Sat,2022-03-19,18:30 (20:30),Bayern Munich,,Union Berlin,,Allianz Arena,,Head-to-Head,,2022,03,19,Bayern Munich vs Union Berlin
+566,BL,27,Sun,2022-03-20,15:30 (17:30),RB Leipzig,,Eint Frankfurt,,Red Bull Arena,,Head-to-Head,,2022,03,20,RB Leipzig vs Eint Frankfurt
+567,BL,27,Sun,2022-03-20,17:30 (19:30),Wolfsburg,,Leverkusen,,Volkswagen Arena,,Head-to-Head,,2022,03,20,Wolfsburg vs Leverkusen
+568,BL,27,Sun,2022-03-20,19:30 (21:30),Köln,,Dortmund,,RheinEnergieSTADION,,Head-to-Head,,2022,03,20,Köln vs Dortmund
+569,BL,28,Sat,2022-04-02,15:00 (16:00),Hoffenheim,,Bochum,,PreZero Arena,,Head-to-Head,,2022,04,02,Hoffenheim vs Bochum
+570,BL,28,Sat,2022-04-02,15:00 (16:00),Freiburg,,Bayern Munich,,Europa-Park Stadion,,Head-to-Head,,2022,04,02,Freiburg vs Bayern Munich
+571,BL,28,Sat,2022-04-02,15:00 (16:00),Leverkusen,,Hertha BSC,,BayArena,,Head-to-Head,,2022,04,02,Leverkusen vs Hertha BSC
+572,BL,28,Sat,2022-04-02,15:00 (16:00),Eint Frankfurt,,Greuther Fürth,,Commerzbank-Arena,,Head-to-Head,,2022,04,02,Eint Frankfurt vs Greuther Fürth
+573,BL,28,Sat,2022-04-02,15:00 (16:00),Union Berlin,,Köln,,Stadion An der Alten Försterei,,Head-to-Head,,2022,04,02,Union Berlin vs Köln
+574,BL,28,Sat,2022-04-02,15:00 (16:00),Dortmund,,RB Leipzig,,Signal Iduna Park,,Head-to-Head,,2022,04,02,Dortmund vs RB Leipzig
+575,BL,28,Sat,2022-04-02,15:00 (16:00),Augsburg,,Wolfsburg,,WWK Arena,,Head-to-Head,,2022,04,02,Augsburg vs Wolfsburg
+576,BL,28,Sat,2022-04-02,15:00 (16:00),Arminia,,Stuttgart,,SchücoArena,,Head-to-Head,,2022,04,02,Arminia vs Stuttgart
+577,BL,28,Sat,2022-04-02,15:00 (16:00),M'Gladbach,,Mainz 05,,Stadion im Borussia-Park,,Head-to-Head,,2022,04,02,M'Gladbach vs Mainz 05
+578,BL,29,Sat,2022-04-09,15:00 (16:00),Bayern Munich,,Augsburg,,Allianz Arena,,Head-to-Head,,2022,04,09,Bayern Munich vs Augsburg
+579,BL,29,Sat,2022-04-09,15:00 (16:00),Wolfsburg,,Arminia,,Volkswagen Arena,,Head-to-Head,,2022,04,09,Wolfsburg vs Arminia
+580,BL,29,Sat,2022-04-09,15:00 (16:00),Stuttgart,,Dortmund,,Mercedes-Benz Arena,,Head-to-Head,,2022,04,09,Stuttgart vs Dortmund
+581,BL,29,Sat,2022-04-09,15:00 (16:00),Eint Frankfurt,,Freiburg,,Commerzbank-Arena,,Head-to-Head,,2022,04,09,Eint Frankfurt vs Freiburg
+582,BL,29,Sat,2022-04-09,15:00 (16:00),RB Leipzig,,Hoffenheim,,Red Bull Arena,,Head-to-Head,,2022,04,09,RB Leipzig vs Hoffenheim
+583,BL,29,Sat,2022-04-09,15:00 (16:00),Greuther Fürth,,M'Gladbach,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,04,09,Greuther Fürth vs M'Gladbach
+584,BL,29,Sat,2022-04-09,15:00 (16:00),Bochum,,Leverkusen,,Vonovia Ruhrstadion,,Head-to-Head,,2022,04,09,Bochum vs Leverkusen
+585,BL,29,Sat,2022-04-09,15:00 (16:00),Köln,,Mainz 05,,RheinEnergieSTADION,,Head-to-Head,,2022,04,09,Köln vs Mainz 05
+586,BL,29,Sat,2022-04-09,15:00 (16:00),Hertha BSC,,Union Berlin,,Olympiastadion Berlin,,Head-to-Head,,2022,04,09,Hertha BSC vs Union Berlin
+587,BL,30,Sat,2022-04-16,15:00 (16:00),Union Berlin,,Eint Frankfurt,,Stadion An der Alten Försterei,,Head-to-Head,,2022,04,16,Union Berlin vs Eint Frankfurt
+588,BL,30,Sat,2022-04-16,15:00 (16:00),Mainz 05,,Stuttgart,,Opel Arena,,Head-to-Head,,2022,04,16,Mainz 05 vs Stuttgart
+589,BL,30,Sat,2022-04-16,15:00 (16:00),Dortmund,,Wolfsburg,,Signal Iduna Park,,Head-to-Head,,2022,04,16,Dortmund vs Wolfsburg
+590,BL,30,Sat,2022-04-16,15:00 (16:00),Leverkusen,,RB Leipzig,,BayArena,,Head-to-Head,,2022,04,16,Leverkusen vs RB Leipzig
+591,BL,30,Sat,2022-04-16,15:00 (16:00),M'Gladbach,,Köln,,Stadion im Borussia-Park,,Head-to-Head,,2022,04,16,M'Gladbach vs Köln
+592,BL,30,Sat,2022-04-16,15:00 (16:00),Augsburg,,Hertha BSC,,WWK Arena,,Head-to-Head,,2022,04,16,Augsburg vs Hertha BSC
+593,BL,30,Sat,2022-04-16,15:00 (16:00),Arminia,,Bayern Munich,,SchücoArena,,Head-to-Head,,2022,04,16,Arminia vs Bayern Munich
+594,BL,30,Sat,2022-04-16,15:00 (16:00),Freiburg,,Bochum,,Europa-Park Stadion,,Head-to-Head,,2022,04,16,Freiburg vs Bochum
+595,BL,30,Sat,2022-04-16,15:00 (16:00),Hoffenheim,,Greuther Fürth,,PreZero Arena,,Head-to-Head,,2022,04,16,Hoffenheim vs Greuther Fürth
+596,BL,31,Sat,2022-04-23,15:00 (16:00),Hertha BSC,,Stuttgart,,Olympiastadion Berlin,,Head-to-Head,,2022,04,23,Hertha BSC vs Stuttgart
+597,BL,31,Sat,2022-04-23,15:00 (16:00),Köln,,Arminia,,RheinEnergieSTADION,,Head-to-Head,,2022,04,23,Köln vs Arminia
+598,BL,31,Sat,2022-04-23,15:00 (16:00),Greuther Fürth,,Leverkusen,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,04,23,Greuther Fürth vs Leverkusen
+599,BL,31,Sat,2022-04-23,15:00 (16:00),RB Leipzig,,Union Berlin,,Red Bull Arena,,Head-to-Head,,2022,04,23,RB Leipzig vs Union Berlin
+600,BL,31,Sat,2022-04-23,15:00 (16:00),Bayern Munich,,Dortmund,,Allianz Arena,,Head-to-Head,,2022,04,23,Bayern Munich vs Dortmund
+601,BL,31,Sat,2022-04-23,15:00 (16:00),Freiburg,,M'Gladbach,,Europa-Park Stadion,,Head-to-Head,,2022,04,23,Freiburg vs M'Gladbach
+602,BL,31,Sat,2022-04-23,15:00 (16:00),Wolfsburg,,Mainz 05,,Volkswagen Arena,,Head-to-Head,,2022,04,23,Wolfsburg vs Mainz 05
+603,BL,31,Sat,2022-04-23,15:00 (16:00),Bochum,,Augsburg,,Vonovia Ruhrstadion,,Head-to-Head,,2022,04,23,Bochum vs Augsburg
+604,BL,31,Sat,2022-04-23,15:00 (16:00),Eint Frankfurt,,Hoffenheim,,Commerzbank-Arena,,Head-to-Head,,2022,04,23,Eint Frankfurt vs Hoffenheim
+605,BL,32,Sat,2022-04-30,15:00 (16:00),Augsburg,,Köln,,WWK Arena,,Head-to-Head,,2022,04,30,Augsburg vs Köln
+606,BL,32,Sat,2022-04-30,15:00 (16:00),Hoffenheim,,Freiburg,,PreZero Arena,,Head-to-Head,,2022,04,30,Hoffenheim vs Freiburg
+607,BL,32,Sat,2022-04-30,15:00 (16:00),Arminia,,Hertha BSC,,SchücoArena,,Head-to-Head,,2022,04,30,Arminia vs Hertha BSC
+608,BL,32,Sat,2022-04-30,15:00 (16:00),Union Berlin,,Greuther Fürth,,Stadion An der Alten Försterei,,Head-to-Head,,2022,04,30,Union Berlin vs Greuther Fürth
+609,BL,32,Sat,2022-04-30,15:00 (16:00),Dortmund,,Bochum,,Signal Iduna Park,,Head-to-Head,,2022,04,30,Dortmund vs Bochum
+610,BL,32,Sat,2022-04-30,15:00 (16:00),Leverkusen,,Eint Frankfurt,,BayArena,,Head-to-Head,,2022,04,30,Leverkusen vs Eint Frankfurt
+611,BL,32,Sat,2022-04-30,15:00 (16:00),Mainz 05,,Bayern Munich,,Opel Arena,,Head-to-Head,,2022,04,30,Mainz 05 vs Bayern Munich
+612,BL,32,Sat,2022-04-30,15:00 (16:00),M'Gladbach,,RB Leipzig,,Stadion im Borussia-Park,,Head-to-Head,,2022,04,30,M'Gladbach vs RB Leipzig
+613,BL,32,Sat,2022-04-30,15:00 (16:00),Stuttgart,,Wolfsburg,,Mercedes-Benz Arena,,Head-to-Head,,2022,04,30,Stuttgart vs Wolfsburg
+614,BL,33,Sat,2022-05-07,15:00 (16:00),Bayern Munich,,Stuttgart,,Allianz Arena,,Head-to-Head,,2022,05,07,Bayern Munich vs Stuttgart
+615,BL,33,Sat,2022-05-07,15:00 (16:00),Bochum,,Arminia,,Vonovia Ruhrstadion,,Head-to-Head,,2022,05,07,Bochum vs Arminia
+616,BL,33,Sat,2022-05-07,15:00 (16:00),Greuther Fürth,,Dortmund,,Sportpark Ronhof Thomas Sommer,,Head-to-Head,,2022,05,07,Greuther Fürth vs Dortmund
+617,BL,33,Sat,2022-05-07,15:00 (16:00),Freiburg,,Union Berlin,,Europa-Park Stadion,,Head-to-Head,,2022,05,07,Freiburg vs Union Berlin
+618,BL,33,Sat,2022-05-07,15:00 (16:00),Eint Frankfurt,,M'Gladbach,,Commerzbank-Arena,,Head-to-Head,,2022,05,07,Eint Frankfurt vs M'Gladbach
+619,BL,33,Sat,2022-05-07,15:00 (16:00),Hertha BSC,,Mainz 05,,Olympiastadion Berlin,,Head-to-Head,,2022,05,07,Hertha BSC vs Mainz 05
+620,BL,33,Sat,2022-05-07,15:00 (16:00),Köln,,Wolfsburg,,RheinEnergieSTADION,,Head-to-Head,,2022,05,07,Köln vs Wolfsburg
+621,BL,33,Sat,2022-05-07,15:00 (16:00),RB Leipzig,,Augsburg,,Red Bull Arena,,Head-to-Head,,2022,05,07,RB Leipzig vs Augsburg
+622,BL,33,Sat,2022-05-07,15:00 (16:00),Hoffenheim,,Leverkusen,,PreZero Arena,,Head-to-Head,,2022,05,07,Hoffenheim vs Leverkusen
+623,BL,34,Sat,2022-05-14,15:30 (16:30),Union Berlin,,Bochum,,Stadion An der Alten Försterei,,Head-to-Head,,2022,05,14,Union Berlin vs Bochum
+624,BL,34,Sat,2022-05-14,15:30 (16:30),Augsburg,,Greuther Fürth,,WWK Arena,,Head-to-Head,,2022,05,14,Augsburg vs Greuther Fürth
+625,BL,34,Sat,2022-05-14,15:30 (16:30),M'Gladbach,,Hoffenheim,,Stadion im Borussia-Park,,Head-to-Head,,2022,05,14,M'Gladbach vs Hoffenheim
+626,BL,34,Sat,2022-05-14,15:30 (16:30),Arminia,,RB Leipzig,,SchücoArena,,Head-to-Head,,2022,05,14,Arminia vs RB Leipzig
+627,BL,34,Sat,2022-05-14,15:30 (16:30),Mainz 05,,Eint Frankfurt,,Opel Arena,,Head-to-Head,,2022,05,14,Mainz 05 vs Eint Frankfurt
+628,BL,34,Sat,2022-05-14,15:30 (16:30),Leverkusen,,Freiburg,,BayArena,,Head-to-Head,,2022,05,14,Leverkusen vs Freiburg
+629,BL,34,Sat,2022-05-14,15:30 (16:30),Wolfsburg,,Bayern Munich,,Volkswagen Arena,,Head-to-Head,,2022,05,14,Wolfsburg vs Bayern Munich
+630,BL,34,Sat,2022-05-14,15:30 (16:30),Dortmund,,Hertha BSC,,Signal Iduna Park,,Head-to-Head,,2022,05,14,Dortmund vs Hertha BSC
+631,BL,34,Sat,2022-05-14,15:30 (16:30),Stuttgart,,Köln,,Mercedes-Benz Arena,,Head-to-Head,,2022,05,14,Stuttgart vs Köln
+632,PL,16,Sun,2021-12-12,14:00 (17:00),Brighton,,Tottenham,,The American Express Community Stadium,,,Match Postponed,2021,12,12,Brighton vs Tottenham
+633,PL,18,Sat,2021-12-18,15:00 (18:00),Aston Villa,,Burnley,,Villa Park,,,Match Postponed,2021,12,18,Aston Villa vs Burnley
+634,PL,19,Sun,2021-12-26,12:30 (15:30),Wolves,,Watford,,Molineux Stadium,,,Match Postponed,2021,12,26,Wolves vs Watford
+635,PL,19,Sun,2021-12-26,15:00 (18:00),Burnley,,Everton,,Turf Moor,,,Match Postponed,2021,12,26,Burnley vs Everton
+636,PL,20,Tue,2021-12-28,17:30 (20:30),Leeds United,,Aston Villa,,Elland Road,,,Match Postponed,2021,12,28,Leeds United vs Aston Villa
+637,PL,20,Thu,2021-12-30,19:30 (22:30),Everton,,Newcastle Utd,,Goodison Park,,,Match Postponed,2021,12,30,Everton vs Newcastle Utd
+638,PL,21,Sat,2022-01-01,15:00 (18:00),Leicester City,,Norwich City,,King Power Stadium,,,Match Postponed,2022,01,01,Leicester City vs Norwich City
+639,PL,21,Sun,2022-01-02,14:00 (17:00),Southampton,,Newcastle Utd,,St. Mary's Stadium,,,Match Postponed,2022,01,02,Southampton vs Newcastle Utd
+640,PL,18,Tue,2022-01-11,20:00 (23:00),Everton,,Leicester City,,Goodison Park,,,Match Postponed,2022,01,11,Everton vs Leicester City
+641,PL,22,Sun,2022-01-16,16:30 (19:30),Tottenham,,Arsenal,,Tottenham Hotspur Stadium,,,Match Postponed,2022,01,16,Tottenham vs Arsenal
+642,PL,25,Sat,2022-02-12,15:00 (18:00),Chelsea,,Arsenal,,Stamford Bridge,,,Match Postponed,2022,02,12,Chelsea vs Arsenal
+643,PL,26,Sat,2022-02-19,12:30 (15:30),West Ham,,Newcastle Utd,,London Stadium,,Head-to-Head,,2022,02,19,West Ham vs Newcastle Utd
+644,PL,26,Sat,2022-02-19,15:00 (18:00),Southampton,,Everton,,St. Mary's Stadium,,Head-to-Head,,2022,02,19,Southampton vs Everton
+645,PL,26,Sat,2022-02-19,15:00 (18:00),Arsenal,,Brentford,,Emirates Stadium,,Head-to-Head,,2022,02,19,Arsenal vs Brentford
+646,PL,26,Sat,2022-02-19,15:00 (18:00),Aston Villa,,Watford,,Villa Park,,Head-to-Head,,2022,02,19,Aston Villa vs Watford
+647,PL,26,Sat,2022-02-19,15:00 (18:00),Liverpool,,Norwich City,,Anfield,,Head-to-Head,,2022,02,19,Liverpool vs Norwich City
+648,PL,26,Sat,2022-02-19,15:00 (18:00),Crystal Palace,,Chelsea,,Selhurst Park,,Head-to-Head,,2022,02,19,Crystal Palace vs Chelsea
+649,PL,26,Sat,2022-02-19,15:00 (18:00),Brighton,,Burnley,,The American Express Community Stadium,,Head-to-Head,,2022,02,19,Brighton vs Burnley
+650,PL,26,Sat,2022-02-19,17:30 (20:30),Manchester City,,Tottenham,,Etihad Stadium,,Head-to-Head,,2022,02,19,Manchester City vs Tottenham
+651,PL,26,Sun,2022-02-20,14:00 (17:00),Leeds United,,Manchester Utd,,Elland Road,,Head-to-Head,,2022,02,20,Leeds United vs Manchester Utd
+652,PL,26,Sun,2022-02-20,16:30 (19:30),Wolves,,Leicester City,,Molineux Stadium,,Head-to-Head,,2022,02,20,Wolves vs Leicester City
+653,PL,13,Wed,2022-02-23,19:30 (22:30),Burnley,,Tottenham,,Turf Moor,,Head-to-Head,,2022,02,23,Burnley vs Tottenham
+654,PL,18,Wed,2022-02-23,19:30 (22:30),Watford,,Crystal Palace,,Vicarage Road Stadium,,Head-to-Head,,2022,02,23,Watford vs Crystal Palace
+655,PL,19,Wed,2022-02-23,19:45 (22:45),Liverpool,,Leeds United,,Anfield,,Head-to-Head,,2022,02,23,Liverpool vs Leeds United
+656,PL,20,Thu,2022-02-24,19:45 (22:45),Arsenal,,Wolves,,Emirates Stadium,,Head-to-Head,,2022,02,24,Arsenal vs Wolves
+657,PL,27,Fri,2022-02-25,20:00 (23:00),Southampton,,Norwich City,,St. Mary's Stadium,,Head-to-Head,,2022,02,25,Southampton vs Norwich City
+658,PL,27,Sat,2022-02-26,12:30 (15:30),Leeds United,,Tottenham,,Elland Road,,Head-to-Head,,2022,02,26,Leeds United vs Tottenham
+659,PL,27,Sat,2022-02-26,15:00 (18:00),Brighton,,Aston Villa,,The American Express Community Stadium,,Head-to-Head,,2022,02,26,Brighton vs Aston Villa
+660,PL,27,Sat,2022-02-26,15:00 (18:00),Brentford,,Newcastle Utd,,Brentford Community Stadium,,Head-to-Head,,2022,02,26,Brentford vs Newcastle Utd
+661,PL,27,Sat,2022-02-26,15:00 (18:00),Crystal Palace,,Burnley,,Selhurst Park,,Head-to-Head,,2022,02,26,Crystal Palace vs Burnley
+662,PL,27,Sat,2022-02-26,15:00 (18:00),Manchester Utd,,Watford,,Old Trafford,,Head-to-Head,,2022,02,26,Manchester Utd vs Watford
+663,PL,27,Sat,2022-02-26,15:00 (18:00),Arsenal,,Liverpool,,Emirates Stadium,,,Match Postponed,2022,02,26,Arsenal vs Liverpool
+664,PL,27,Sat,2022-02-26,17:30 (20:30),Everton,,Manchester City,,Goodison Park,,Head-to-Head,,2022,02,26,Everton vs Manchester City
+665,PL,27,Sun,2022-02-27,14:00 (17:00),West Ham,,Wolves,,London Stadium,,Head-to-Head,,2022,02,27,West Ham vs Wolves
+666,PL,27,Sun,2022-02-27,14:00 (17:00),Chelsea,,Leicester City,,Stamford Bridge,,,Match Postponed,2022,02,27,Chelsea vs Leicester City
+667,PL,22,Tue,2022-03-01,19:45 (22:45),Burnley,,Leicester City,,Turf Moor,,Head-to-Head,,2022,03,01,Burnley vs Leicester City
+668,PL,28,Sat,2022-03-05,12:30 (15:30),Leicester City,,Leeds United,,King Power Stadium,,Head-to-Head,,2022,03,05,Leicester City vs Leeds United
+669,PL,28,Sat,2022-03-05,15:00 (18:00),Burnley,,Chelsea,,Turf Moor,,Head-to-Head,,2022,03,05,Burnley vs Chelsea
+670,PL,28,Sat,2022-03-05,15:00 (18:00),Wolves,,Crystal Palace,,Molineux Stadium,,Head-to-Head,,2022,03,05,Wolves vs Crystal Palace
+671,PL,28,Sat,2022-03-05,15:00 (18:00),Aston Villa,,Southampton,,Villa Park,,Head-to-Head,,2022,03,05,Aston Villa vs Southampton
+672,PL,28,Sat,2022-03-05,15:00 (18:00),Norwich City,,Brentford,,Carrow Road,,Head-to-Head,,2022,03,05,Norwich City vs Brentford
+673,PL,28,Sat,2022-03-05,15:00 (18:00),Newcastle Utd,,Brighton,,St. James' Park,,Head-to-Head,,2022,03,05,Newcastle Utd vs Brighton
+674,PL,28,Sat,2022-03-05,17:30 (20:30),Liverpool,,West Ham,,Anfield,,Head-to-Head,,2022,03,05,Liverpool vs West Ham
+675,PL,28,Sun,2022-03-06,14:00 (17:00),Watford,,Arsenal,,Vicarage Road Stadium,,Head-to-Head,,2022,03,06,Watford vs Arsenal
+676,PL,28,Sun,2022-03-06,16:30 (19:30),Manchester City,,Manchester Utd,,Etihad Stadium,,Head-to-Head,,2022,03,06,Manchester City vs Manchester Utd
+677,PL,28,Mon,2022-03-07,20:00 (23:00),Tottenham,,Everton,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,03,07,Tottenham vs Everton
+678,PL,29,Sat,2022-03-12,12:30 (15:30),Brighton,,Liverpool,,The American Express Community Stadium,,Head-to-Head,,2022,03,12,Brighton vs Liverpool
+679,PL,29,Sat,2022-03-12,15:00 (18:00),Brentford,,Burnley,,Brentford Community Stadium,,Head-to-Head,,2022,03,12,Brentford vs Burnley
+680,PL,29,Sat,2022-03-12,15:00 (18:00),Everton,,Wolves,,Goodison Park,,Head-to-Head,,2022,03,12,Everton vs Wolves
+681,PL,29,Sat,2022-03-12,15:00 (18:00),Southampton,,Watford,,St. Mary's Stadium,,Head-to-Head,,2022,03,12,Southampton vs Watford
+682,PL,29,Sat,2022-03-12,15:00 (18:00),Leeds United,,Norwich City,,Elland Road,,Head-to-Head,,2022,03,12,Leeds United vs Norwich City
+683,PL,29,Sat,2022-03-12,17:30 (20:30),Manchester Utd,,Tottenham,,Old Trafford,,Head-to-Head,,2022,03,12,Manchester Utd vs Tottenham
+684,PL,29,Sun,2022-03-13,14:00 (17:00),West Ham,,Aston Villa,,London Stadium,,Head-to-Head,,2022,03,13,West Ham vs Aston Villa
+685,PL,29,Sun,2022-03-13,14:00 (17:00),Chelsea,,Newcastle Utd,,Stamford Bridge,,Head-to-Head,,2022,03,13,Chelsea vs Newcastle Utd
+686,PL,29,Sun,2022-03-13,16:30 (19:30),Arsenal,,Leicester City,,Emirates Stadium,,Head-to-Head,,2022,03,13,Arsenal vs Leicester City
+687,PL,29,Mon,2022-03-14,20:00 (23:00),Crystal Palace,,Manchester City,,Selhurst Park,,Head-to-Head,,2022,03,14,Crystal Palace vs Manchester City
+688,PL,30,Fri,2022-03-18,20:00 (23:00),Wolves,,Leeds United,,Molineux Stadium,,Head-to-Head,,2022,03,18,Wolves vs Leeds United
+689,PL,30,Sat,2022-03-19,12:30 (15:30),Aston Villa,,Arsenal,,Villa Park,,Head-to-Head,,2022,03,19,Aston Villa vs Arsenal
+690,PL,30,Sat,2022-03-19,15:00 (18:00),Newcastle Utd,,Crystal Palace,,St. James' Park,,Head-to-Head,,2022,03,19,Newcastle Utd vs Crystal Palace
+691,PL,30,Sat,2022-03-19,15:00 (18:00),Norwich City,,Chelsea,,Carrow Road,,Head-to-Head,,2022,03,19,Norwich City vs Chelsea
+692,PL,30,Sat,2022-03-19,15:00 (18:00),Watford,,Everton,,Vicarage Road Stadium,,Head-to-Head,,2022,03,19,Watford vs Everton
+693,PL,30,Sat,2022-03-19,15:00 (18:00),Leicester City,,Brentford,,King Power Stadium,,Head-to-Head,,2022,03,19,Leicester City vs Brentford
+694,PL,30,Sat,2022-03-19,15:00 (18:00),Manchester City,,Brighton,,Etihad Stadium,,Head-to-Head,,2022,03,19,Manchester City vs Brighton
+695,PL,30,Sat,2022-03-19,17:30 (20:30),Burnley,,Southampton,,Turf Moor,,Head-to-Head,,2022,03,19,Burnley vs Southampton
+696,PL,30,Sun,2022-03-20,14:00 (17:00),Tottenham,,West Ham,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,03,20,Tottenham vs West Ham
+697,PL,30,Sun,2022-03-20,16:30 (19:30),Liverpool,,Manchester Utd,,Anfield,,Head-to-Head,,2022,03,20,Liverpool vs Manchester Utd
+698,PL,31,Sat,2022-04-02,15:00 (17:00),Chelsea,,Brentford,,Stamford Bridge,,Head-to-Head,,2022,04,02,Chelsea vs Brentford
+699,PL,31,Sat,2022-04-02,15:00 (17:00),Tottenham,,Newcastle Utd,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,04,02,Tottenham vs Newcastle Utd
+700,PL,31,Sat,2022-04-02,15:00 (17:00),Wolves,,Aston Villa,,Molineux Stadium,,Head-to-Head,,2022,04,02,Wolves vs Aston Villa
+701,PL,31,Sat,2022-04-02,15:00 (17:00),West Ham,,Everton,,London Stadium,,Head-to-Head,,2022,04,02,West Ham vs Everton
+702,PL,31,Sat,2022-04-02,15:00 (17:00),Brighton,,Norwich City,,The American Express Community Stadium,,Head-to-Head,,2022,04,02,Brighton vs Norwich City
+703,PL,31,Sat,2022-04-02,15:00 (17:00),Leeds United,,Southampton,,Elland Road,,Head-to-Head,,2022,04,02,Leeds United vs Southampton
+704,PL,31,Sat,2022-04-02,15:00 (17:00),Liverpool,,Watford,,Anfield,,Head-to-Head,,2022,04,02,Liverpool vs Watford
+705,PL,31,Sat,2022-04-02,15:00 (17:00),Manchester Utd,,Leicester City,,Old Trafford,,Head-to-Head,,2022,04,02,Manchester Utd vs Leicester City
+706,PL,31,Sat,2022-04-02,15:00 (17:00),Burnley,,Manchester City,,Turf Moor,,Head-to-Head,,2022,04,02,Burnley vs Manchester City
+707,PL,31,Sat,2022-04-02,15:00 (17:00),Crystal Palace,,Arsenal,,Selhurst Park,,Head-to-Head,,2022,04,02,Crystal Palace vs Arsenal
+708,PL,32,Sat,2022-04-09,15:00 (17:00),Southampton,,Chelsea,,St. Mary's Stadium,,Head-to-Head,,2022,04,09,Southampton vs Chelsea
+709,PL,32,Sat,2022-04-09,15:00 (17:00),Aston Villa,,Tottenham,,Villa Park,,Head-to-Head,,2022,04,09,Aston Villa vs Tottenham
+710,PL,32,Sat,2022-04-09,15:00 (17:00),Watford,,Leeds United,,Vicarage Road Stadium,,Head-to-Head,,2022,04,09,Watford vs Leeds United
+711,PL,32,Sat,2022-04-09,15:00 (17:00),Arsenal,,Brighton,,Emirates Stadium,,Head-to-Head,,2022,04,09,Arsenal vs Brighton
+712,PL,32,Sat,2022-04-09,15:00 (17:00),Brentford,,West Ham,,Brentford Community Stadium,,Head-to-Head,,2022,04,09,Brentford vs West Ham
+713,PL,32,Sat,2022-04-09,15:00 (17:00),Manchester City,,Liverpool,,Etihad Stadium,,Head-to-Head,,2022,04,09,Manchester City vs Liverpool
+714,PL,32,Sat,2022-04-09,15:00 (17:00),Everton,,Manchester Utd,,Goodison Park,,Head-to-Head,,2022,04,09,Everton vs Manchester Utd
+715,PL,32,Sat,2022-04-09,15:00 (17:00),Leicester City,,Crystal Palace,,King Power Stadium,,Head-to-Head,,2022,04,09,Leicester City vs Crystal Palace
+716,PL,32,Sat,2022-04-09,15:00 (17:00),Norwich City,,Burnley,,Carrow Road,,Head-to-Head,,2022,04,09,Norwich City vs Burnley
+717,PL,32,Sat,2022-04-09,15:00 (17:00),Newcastle Utd,,Wolves,,St. James' Park,,Head-to-Head,,2022,04,09,Newcastle Utd vs Wolves
+718,PL,33,Sat,2022-04-16,15:00 (17:00),Everton,,Crystal Palace,,Goodison Park,,Head-to-Head,,2022,04,16,Everton vs Crystal Palace
+719,PL,33,Sat,2022-04-16,15:00 (17:00),Southampton,,Arsenal,,St. Mary's Stadium,,Head-to-Head,,2022,04,16,Southampton vs Arsenal
+720,PL,33,Sat,2022-04-16,15:00 (17:00),Wolves,,Manchester City,,Molineux Stadium,,Head-to-Head,,2022,04,16,Wolves vs Manchester City
+721,PL,33,Sat,2022-04-16,15:00 (17:00),Manchester Utd,,Norwich City,,Old Trafford,,Head-to-Head,,2022,04,16,Manchester Utd vs Norwich City
+722,PL,33,Sat,2022-04-16,15:00 (17:00),Leeds United,,Chelsea,,Elland Road,,Head-to-Head,,2022,04,16,Leeds United vs Chelsea
+723,PL,33,Sat,2022-04-16,15:00 (17:00),Newcastle Utd,,Leicester City,,St. James' Park,,Head-to-Head,,2022,04,16,Newcastle Utd vs Leicester City
+724,PL,33,Sat,2022-04-16,15:00 (17:00),Watford,,Brentford,,Vicarage Road Stadium,,Head-to-Head,,2022,04,16,Watford vs Brentford
+725,PL,33,Sat,2022-04-16,15:00 (17:00),Tottenham,,Brighton,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,04,16,Tottenham vs Brighton
+726,PL,33,Sat,2022-04-16,15:00 (17:00),West Ham,,Burnley,,London Stadium,,Head-to-Head,,2022,04,16,West Ham vs Burnley
+727,PL,33,Sat,2022-04-16,15:00 (17:00),Aston Villa,,Liverpool,,Villa Park,,Head-to-Head,,2022,04,16,Aston Villa vs Liverpool
+728,PL,34,Sat,2022-04-23,15:00 (17:00),Leicester City,,Aston Villa,,King Power Stadium,,Head-to-Head,,2022,04,23,Leicester City vs Aston Villa
+729,PL,34,Sat,2022-04-23,15:00 (17:00),Norwich City,,Newcastle Utd,,Carrow Road,,Head-to-Head,,2022,04,23,Norwich City vs Newcastle Utd
+730,PL,34,Sat,2022-04-23,15:00 (17:00),Liverpool,,Everton,,Anfield,,Head-to-Head,,2022,04,23,Liverpool vs Everton
+731,PL,34,Sat,2022-04-23,15:00 (17:00),Brentford,,Tottenham,,Brentford Community Stadium,,Head-to-Head,,2022,04,23,Brentford vs Tottenham
+732,PL,34,Sat,2022-04-23,15:00 (17:00),Arsenal,,Manchester Utd,,Emirates Stadium,,Head-to-Head,,2022,04,23,Arsenal vs Manchester Utd
+733,PL,34,Sat,2022-04-23,15:00 (17:00),Manchester City,,Watford,,Etihad Stadium,,Head-to-Head,,2022,04,23,Manchester City vs Watford
+734,PL,34,Sat,2022-04-23,15:00 (17:00),Crystal Palace,,Leeds United,,Selhurst Park,,Head-to-Head,,2022,04,23,Crystal Palace vs Leeds United
+735,PL,34,Sat,2022-04-23,15:00 (17:00),Brighton,,Southampton,,The American Express Community Stadium,,Head-to-Head,,2022,04,23,Brighton vs Southampton
+736,PL,34,Sat,2022-04-23,15:00 (17:00),Burnley,,Wolves,,Turf Moor,,Head-to-Head,,2022,04,23,Burnley vs Wolves
+737,PL,34,Sat,2022-04-23,15:00 (17:00),Chelsea,,West Ham,,Stamford Bridge,,Head-to-Head,,2022,04,23,Chelsea vs West Ham
+738,PL,35,Sat,2022-04-30,15:00 (17:00),Newcastle Utd,,Liverpool,,St. James' Park,,Head-to-Head,,2022,04,30,Newcastle Utd vs Liverpool
+739,PL,35,Sat,2022-04-30,15:00 (17:00),Wolves,,Brighton,,Molineux Stadium,,Head-to-Head,,2022,04,30,Wolves vs Brighton
+740,PL,35,Sat,2022-04-30,15:00 (17:00),Tottenham,,Leicester City,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,04,30,Tottenham vs Leicester City
+741,PL,35,Sat,2022-04-30,15:00 (17:00),Leeds United,,Manchester City,,Elland Road,,Head-to-Head,,2022,04,30,Leeds United vs Manchester City
+742,PL,35,Sat,2022-04-30,15:00 (17:00),Aston Villa,,Norwich City,,Villa Park,,Head-to-Head,,2022,04,30,Aston Villa vs Norwich City
+743,PL,35,Sat,2022-04-30,15:00 (17:00),West Ham,,Arsenal,,London Stadium,,Head-to-Head,,2022,04,30,West Ham vs Arsenal
+744,PL,35,Sat,2022-04-30,15:00 (17:00),Watford,,Burnley,,Vicarage Road Stadium,,Head-to-Head,,2022,04,30,Watford vs Burnley
+745,PL,35,Sat,2022-04-30,15:00 (17:00),Everton,,Chelsea,,Goodison Park,,Head-to-Head,,2022,04,30,Everton vs Chelsea
+746,PL,35,Sat,2022-04-30,15:00 (17:00),Manchester Utd,,Brentford,,Old Trafford,,Head-to-Head,,2022,04,30,Manchester Utd vs Brentford
+747,PL,35,Sat,2022-04-30,15:00 (17:00),Southampton,,Crystal Palace,,St. Mary's Stadium,,Head-to-Head,,2022,04,30,Southampton vs Crystal Palace
+748,PL,36,Sat,2022-05-07,15:00 (17:00),Chelsea,,Wolves,,Stamford Bridge,,Head-to-Head,,2022,05,07,Chelsea vs Wolves
+749,PL,36,Sat,2022-05-07,15:00 (17:00),Liverpool,,Tottenham,,Anfield,,Head-to-Head,,2022,05,07,Liverpool vs Tottenham
+750,PL,36,Sat,2022-05-07,15:00 (17:00),Burnley,,Aston Villa,,Turf Moor,,Head-to-Head,,2022,05,07,Burnley vs Aston Villa
+751,PL,36,Sat,2022-05-07,15:00 (17:00),Arsenal,,Leeds United,,Emirates Stadium,,Head-to-Head,,2022,05,07,Arsenal vs Leeds United
+752,PL,36,Sat,2022-05-07,15:00 (17:00),Crystal Palace,,Watford,,Selhurst Park,,Head-to-Head,,2022,05,07,Crystal Palace vs Watford
+753,PL,36,Sat,2022-05-07,15:00 (17:00),Brentford,,Southampton,,Brentford Community Stadium,,Head-to-Head,,2022,05,07,Brentford vs Southampton
+754,PL,36,Sat,2022-05-07,15:00 (17:00),Manchester City,,Newcastle Utd,,Etihad Stadium,,Head-to-Head,,2022,05,07,Manchester City vs Newcastle Utd
+755,PL,36,Sat,2022-05-07,15:00 (17:00),Norwich City,,West Ham,,Carrow Road,,Head-to-Head,,2022,05,07,Norwich City vs West Ham
+756,PL,36,Sat,2022-05-07,15:00 (17:00),Leicester City,,Everton,,King Power Stadium,,Head-to-Head,,2022,05,07,Leicester City vs Everton
+757,PL,36,Sat,2022-05-07,15:00 (17:00),Brighton,,Manchester Utd,,The American Express Community Stadium,,Head-to-Head,,2022,05,07,Brighton vs Manchester Utd
+758,PL,37,Sun,2022-05-15,15:00 (17:00),Manchester Utd,,Chelsea,,Old Trafford,,Head-to-Head,,2022,05,15,Manchester Utd vs Chelsea
+759,PL,37,Sun,2022-05-15,15:00 (17:00),Everton,,Brentford,,Goodison Park,,Head-to-Head,,2022,05,15,Everton vs Brentford
+760,PL,37,Sun,2022-05-15,15:00 (17:00),Aston Villa,,Crystal Palace,,Villa Park,,Head-to-Head,,2022,05,15,Aston Villa vs Crystal Palace
+761,PL,37,Sun,2022-05-15,15:00 (17:00),Leeds United,,Brighton,,Elland Road,,Head-to-Head,,2022,05,15,Leeds United vs Brighton
+762,PL,37,Sun,2022-05-15,15:00 (17:00),Watford,,Leicester City,,Vicarage Road Stadium,,Head-to-Head,,2022,05,15,Watford vs Leicester City
+763,PL,37,Sun,2022-05-15,15:00 (17:00),West Ham,,Manchester City,,London Stadium,,Head-to-Head,,2022,05,15,West Ham vs Manchester City
+764,PL,37,Sun,2022-05-15,15:00 (17:00),Southampton,,Liverpool,,St. Mary's Stadium,,Head-to-Head,,2022,05,15,Southampton vs Liverpool
+765,PL,37,Sun,2022-05-15,15:00 (17:00),Newcastle Utd,,Arsenal,,St. James' Park,,Head-to-Head,,2022,05,15,Newcastle Utd vs Arsenal
+766,PL,37,Sun,2022-05-15,15:00 (17:00),Wolves,,Norwich City,,Molineux Stadium,,Head-to-Head,,2022,05,15,Wolves vs Norwich City
+767,PL,37,Sun,2022-05-15,15:00 (17:00),Tottenham,,Burnley,,Tottenham Hotspur Stadium,,Head-to-Head,,2022,05,15,Tottenham vs Burnley
+768,PL,38,Sun,2022-05-22,16:00 (18:00),Norwich City,,Tottenham,,Carrow Road,,Head-to-Head,,2022,05,22,Norwich City vs Tottenham
+769,PL,38,Sun,2022-05-22,16:00 (18:00),Brentford,,Leeds United,,Brentford Community Stadium,,Head-to-Head,,2022,05,22,Brentford vs Leeds United
+770,PL,38,Sun,2022-05-22,16:00 (18:00),Liverpool,,Wolves,,Anfield,,Head-to-Head,,2022,05,22,Liverpool vs Wolves
+771,PL,38,Sun,2022-05-22,16:00 (18:00),Brighton,,West Ham,,The American Express Community Stadium,,Head-to-Head,,2022,05,22,Brighton vs West Ham
+772,PL,38,Sun,2022-05-22,16:00 (18:00),Manchester City,,Aston Villa,,Etihad Stadium,,Head-to-Head,,2022,05,22,Manchester City vs Aston Villa
+773,PL,38,Sun,2022-05-22,16:00 (18:00),Burnley,,Newcastle Utd,,Turf Moor,,Head-to-Head,,2022,05,22,Burnley vs Newcastle Utd
+774,PL,38,Sun,2022-05-22,16:00 (18:00),Chelsea,,Watford,,Stamford Bridge,,Head-to-Head,,2022,05,22,Chelsea vs Watford
+775,PL,38,Sun,2022-05-22,16:00 (18:00),Arsenal,,Everton,,Emirates Stadium,,Head-to-Head,,2022,05,22,Arsenal vs Everton
+776,PL,38,Sun,2022-05-22,16:00 (18:00),Crystal Palace,,Manchester Utd,,Selhurst Park,,Head-to-Head,,2022,05,22,Crystal Palace vs Manchester Utd
+777,PL,38,Sun,2022-05-22,16:00 (18:00),Leicester City,,Southampton,,King Power Stadium,,Head-to-Head,,2022,05,22,Leicester City vs Southampton
+778,D,23,Fri,2022-02-18,20:00 (22:00),Fortuna Sittard,,Sparta R'dam,,Fortuna Sittard Stadion,,Head-to-Head,,2022,02,18,Fortuna Sittard vs Sparta R'dam
+779,D,23,Sat,2022-02-19,16:30 (18:30),NEC Nijmegen,,RKC Waalwijk,,Goffertstadion,,Head-to-Head,,2022,02,19,NEC Nijmegen vs RKC Waalwijk
+780,D,23,Sat,2022-02-19,18:45 (20:45),Willem II,,Ajax,,Koning Willem II Stadion,,Head-to-Head,,2022,02,19,Willem II vs Ajax
+781,D,23,Sat,2022-02-19,21:00 (23:00),AZ Alkmaar,,Heracles Almelo,,AFAS Stadion,,Head-to-Head,,2022,02,19,AZ Alkmaar vs Heracles Almelo
+782,D,23,Sun,2022-02-20,12:15 (14:15),Zwolle,,Groningen,,MAC³PARK Stadion,,Head-to-Head,,2022,02,20,Zwolle vs Groningen
+783,D,23,Sun,2022-02-20,14:30 (16:30),Twente,,Go Ahead Eag,,De Grolsch Veste,,Head-to-Head,,2022,02,20,Twente vs Go Ahead Eag
+784,D,23,Sun,2022-02-20,14:30 (16:30),Feyenoord,,Cambuur,,Stadion Feijenoord,,Head-to-Head,,2022,02,20,Feyenoord vs Cambuur
+785,D,23,Sun,2022-02-20,16:45 (18:45),PSV Eindhoven,,Heerenveen,,Philips Stadion,,Head-to-Head,,2022,02,20,PSV Eindhoven vs Heerenveen
+786,D,23,Sun,2022-02-20,16:45 (18:45),Utrecht,,Vitesse,,Stadion Galgenwaard,,Head-to-Head,,2022,02,20,Utrecht vs Vitesse
+787,D,24,Fri,2022-02-25,20:00 (22:00),RKC Waalwijk,,Twente,,Mandemakers Stadion,,Head-to-Head,,2022,02,25,RKC Waalwijk vs Twente
+788,D,24,Sat,2022-02-26,16:30 (18:30),Heracles Almelo,,Zwolle,,Polman Stadion,,Head-to-Head,,2022,02,26,Heracles Almelo vs Zwolle
+789,D,24,Sat,2022-02-26,18:45 (20:45),Groningen,,Willem II,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,02,26,Groningen vs Willem II
+790,D,24,Sat,2022-02-26,21:00 (23:00),Cambuur,,Fortuna Sittard,,Cambuurstadion,,Head-to-Head,,2022,02,26,Cambuur vs Fortuna Sittard
+791,D,24,Sun,2022-02-27,12:15 (14:15),Vitesse,,NEC Nijmegen,,GelreDome,,Head-to-Head,,2022,02,27,Vitesse vs NEC Nijmegen
+792,D,24,Sun,2022-02-27,12:15 (14:15),AZ Alkmaar,,Feyenoord,,AFAS Stadion,,Head-to-Head,,2022,02,27,AZ Alkmaar vs Feyenoord
+793,D,24,Sun,2022-02-27,14:30 (16:30),Sparta R'dam,,PSV Eindhoven,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,02,27,Sparta R'dam vs PSV Eindhoven
+794,D,24,Sun,2022-02-27,16:45 (18:45),Go Ahead Eag,,Ajax,,De Adelaarshorst,,Head-to-Head,,2022,02,27,Go Ahead Eag vs Ajax
+795,D,24,Sun,2022-02-27,20:00 (22:00),Heerenveen,,Utrecht,,Abe Lenstra Stadion,,Head-to-Head,,2022,02,27,Heerenveen vs Utrecht
+796,D,25,Fri,2022-03-04,20:00 (22:00),Vitesse,,Sparta R'dam,,GelreDome,,Head-to-Head,,2022,03,04,Vitesse vs Sparta R'dam
+797,D,25,Sat,2022-03-05,16:30 (18:30),PSV Eindhoven,,Heracles Almelo,,Philips Stadion,,Head-to-Head,,2022,03,05,PSV Eindhoven vs Heracles Almelo
+798,D,25,Sat,2022-03-05,18:45 (20:45),NEC Nijmegen,,AZ Alkmaar,,Goffertstadion,,Head-to-Head,,2022,03,05,NEC Nijmegen vs AZ Alkmaar
+799,D,25,Sat,2022-03-05,20:00 (22:00),Go Ahead Eag,,Utrecht,,De Adelaarshorst,,Head-to-Head,,2022,03,05,Go Ahead Eag vs Utrecht
+800,D,25,Sat,2022-03-05,21:00 (23:00),Feyenoord,,Groningen,,Stadion Feijenoord,,Head-to-Head,,2022,03,05,Feyenoord vs Groningen
+801,D,25,Sun,2022-03-06,12:15 (14:15),Willem II,,Heerenveen,,Koning Willem II Stadion,,Head-to-Head,,2022,03,06,Willem II vs Heerenveen
+802,D,25,Sun,2022-03-06,14:30 (16:30),Twente,,Cambuur,,De Grolsch Veste,,Head-to-Head,,2022,03,06,Twente vs Cambuur
+803,D,25,Sun,2022-03-06,16:45 (18:45),Ajax,,RKC Waalwijk,,Johan Cruyff ArenA,,Head-to-Head,,2022,03,06,Ajax vs RKC Waalwijk
+804,D,25,Sun,2022-03-06,20:00 (22:00),Fortuna Sittard,,Zwolle,,Fortuna Sittard Stadion,,Head-to-Head,,2022,03,06,Fortuna Sittard vs Zwolle
+805,D,26,Fri,2022-03-11,20:00 (22:00),Cambuur,,Ajax,,Cambuurstadion,,Head-to-Head,,2022,03,11,Cambuur vs Ajax
+806,D,26,Sat,2022-03-12,16:30 (18:30),Sparta R'dam,,Go Ahead Eag,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,03,12,Sparta R'dam vs Go Ahead Eag
+807,D,26,Sat,2022-03-12,18:45 (20:45),Groningen,,NEC Nijmegen,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,03,12,Groningen vs NEC Nijmegen
+808,D,26,Sat,2022-03-12,21:00 (23:00),RKC Waalwijk,,Heerenveen,,Mandemakers Stadion,,Head-to-Head,,2022,03,12,RKC Waalwijk vs Heerenveen
+809,D,26,Sun,2022-03-13,12:15 (14:15),Fortuna Sittard,,Willem II,,Fortuna Sittard Stadion,,Head-to-Head,,2022,03,13,Fortuna Sittard vs Willem II
+810,D,26,Sun,2022-03-13,14:30 (16:30),Heracles Almelo,,Vitesse,,Polman Stadion,,Head-to-Head,,2022,03,13,Heracles Almelo vs Vitesse
+811,D,26,Sun,2022-03-13,14:30 (16:30),Utrecht,,PSV Eindhoven,,Stadion Galgenwaard,,Head-to-Head,,2022,03,13,Utrecht vs PSV Eindhoven
+812,D,26,Sun,2022-03-13,16:45 (18:45),Zwolle,,Feyenoord,,MAC³PARK Stadion,,Head-to-Head,,2022,03,13,Zwolle vs Feyenoord
+813,D,26,Sun,2022-03-13,20:00 (22:00),AZ Alkmaar,,Twente,,AFAS Stadion,,Head-to-Head,,2022,03,13,AZ Alkmaar vs Twente
+814,D,27,Fri,2022-03-18,20:00 (22:00),Heerenveen,,Heracles Almelo,,Abe Lenstra Stadion,,Head-to-Head,,2022,03,18,Heerenveen vs Heracles Almelo
+815,D,27,Sat,2022-03-19,18:45 (20:45),Go Ahead Eag,,Cambuur,,De Adelaarshorst,,Head-to-Head,,2022,03,19,Go Ahead Eag vs Cambuur
+816,D,27,Sat,2022-03-19,20:00 (22:00),Twente,,Zwolle,,De Grolsch Veste,,Head-to-Head,,2022,03,19,Twente vs Zwolle
+817,D,27,Sat,2022-03-19,21:00 (23:00),NEC Nijmegen,,Sparta R'dam,,Goffertstadion,,Head-to-Head,,2022,03,19,NEC Nijmegen vs Sparta R'dam
+818,D,27,Sun,2022-03-20,12:15 (14:15),Utrecht,,Groningen,,Stadion Galgenwaard,,Head-to-Head,,2022,03,20,Utrecht vs Groningen
+819,D,27,Sun,2022-03-20,14:30 (16:30),Ajax,,Feyenoord,,Johan Cruyff ArenA,,Head-to-Head,,2022,03,20,Ajax vs Feyenoord
+820,D,27,Sun,2022-03-20,16:45 (18:45),Vitesse,,RKC Waalwijk,,GelreDome,,Head-to-Head,,2022,03,20,Vitesse vs RKC Waalwijk
+821,D,27,Sun,2022-03-20,16:45 (18:45),PSV Eindhoven,,Fortuna Sittard,,Philips Stadion,,Head-to-Head,,2022,03,20,PSV Eindhoven vs Fortuna Sittard
+822,D,27,Sun,2022-03-20,20:00 (22:00),Willem II,,AZ Alkmaar,,Koning Willem II Stadion,,Head-to-Head,,2022,03,20,Willem II vs AZ Alkmaar
+823,D,28,Sat,2022-04-02,16:30 (17:30),Groningen,,Ajax,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,04,02,Groningen vs Ajax
+824,D,28,Sat,2022-04-02,18:45 (19:45),Twente,,PSV Eindhoven,,De Grolsch Veste,,Head-to-Head,,2022,04,02,Twente vs PSV Eindhoven
+825,D,28,Sat,2022-04-02,20:00 (21:00),RKC Waalwijk,,Utrecht,,Mandemakers Stadion,,Head-to-Head,,2022,04,02,RKC Waalwijk vs Utrecht
+826,D,28,Sat,2022-04-02,20:00 (21:00),AZ Alkmaar,,Vitesse,,AFAS Stadion,,Head-to-Head,,2022,04,02,AZ Alkmaar vs Vitesse
+827,D,28,Sat,2022-04-02,21:00 (22:00),Feyenoord,,Willem II,,Stadion Feijenoord,,Head-to-Head,,2022,04,02,Feyenoord vs Willem II
+828,D,28,Sun,2022-04-03,12:15 (13:15),Zwolle,,Go Ahead Eag,,MAC³PARK Stadion,,Head-to-Head,,2022,04,03,Zwolle vs Go Ahead Eag
+829,D,28,Sun,2022-04-03,14:30 (15:30),Fortuna Sittard,,Heracles Almelo,,Fortuna Sittard Stadion,,Head-to-Head,,2022,04,03,Fortuna Sittard vs Heracles Almelo
+830,D,28,Sun,2022-04-03,14:30 (15:30),Sparta R'dam,,Heerenveen,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,04,03,Sparta R'dam vs Heerenveen
+831,D,28,Sun,2022-04-03,16:45 (17:45),Cambuur,,NEC Nijmegen,,Cambuurstadion,,Head-to-Head,,2022,04,03,Cambuur vs NEC Nijmegen
+832,D,29,Fri,2022-04-08,20:00 (21:00),Go Ahead Eag,,Willem II,,De Adelaarshorst,,Head-to-Head,,2022,04,08,Go Ahead Eag vs Willem II
+833,D,29,Sat,2022-04-09,18:45 (19:45),Utrecht,,Fortuna Sittard,,Stadion Galgenwaard,,Head-to-Head,,2022,04,09,Utrecht vs Fortuna Sittard
+834,D,29,Sat,2022-04-09,20:00 (21:00),Ajax,,Sparta R'dam,,Johan Cruyff ArenA,,Head-to-Head,,2022,04,09,Ajax vs Sparta R'dam
+835,D,29,Sat,2022-04-09,21:00 (22:00),NEC Nijmegen,,Twente,,Goffertstadion,,Head-to-Head,,2022,04,09,NEC Nijmegen vs Twente
+836,D,29,Sun,2022-04-10,12:15 (13:15),Heerenveen,,Groningen,,Abe Lenstra Stadion,,Head-to-Head,,2022,04,10,Heerenveen vs Groningen
+837,D,29,Sun,2022-04-10,14:30 (15:30),Vitesse,,Cambuur,,GelreDome,,Head-to-Head,,2022,04,10,Vitesse vs Cambuur
+838,D,29,Sun,2022-04-10,14:30 (15:30),PSV Eindhoven,,RKC Waalwijk,,Philips Stadion,,Head-to-Head,,2022,04,10,PSV Eindhoven vs RKC Waalwijk
+839,D,29,Sun,2022-04-10,16:45 (17:45),Heracles Almelo,,Feyenoord,,Polman Stadion,,Head-to-Head,,2022,04,10,Heracles Almelo vs Feyenoord
+840,D,29,Sun,2022-04-10,20:00 (21:00),Zwolle,,AZ Alkmaar,,MAC³PARK Stadion,,Head-to-Head,,2022,04,10,Zwolle vs AZ Alkmaar
+841,D,30,Fri,2022-04-22,20:00 (21:00),Twente,,Sparta R'dam,,De Grolsch Veste,,Head-to-Head,,2022,04,22,Twente vs Sparta R'dam
+842,D,30,Sat,2022-04-23,16:30 (17:30),NEC Nijmegen,,Ajax,,Goffertstadion,,Head-to-Head,,2022,04,23,NEC Nijmegen vs Ajax
+843,D,30,Sat,2022-04-23,18:45 (19:45),AZ Alkmaar,,Heerenveen,,AFAS Stadion,,Head-to-Head,,2022,04,23,AZ Alkmaar vs Heerenveen
+844,D,30,Sat,2022-04-23,20:00 (21:00),RKC Waalwijk,,Zwolle,,Mandemakers Stadion,,Head-to-Head,,2022,04,23,RKC Waalwijk vs Zwolle
+845,D,30,Sat,2022-04-23,21:00 (22:00),Cambuur,,PSV Eindhoven,,Cambuurstadion,,Head-to-Head,,2022,04,23,Cambuur vs PSV Eindhoven
+846,D,30,Sun,2022-04-24,12:15 (13:15),Willem II,,Vitesse,,Koning Willem II Stadion,,Head-to-Head,,2022,04,24,Willem II vs Vitesse
+847,D,30,Sun,2022-04-24,14:30 (15:30),Groningen,,Heracles Almelo,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,04,24,Groningen vs Heracles Almelo
+848,D,30,Sun,2022-04-24,14:30 (15:30),Feyenoord,,Utrecht,,Stadion Feijenoord,,Head-to-Head,,2022,04,24,Feyenoord vs Utrecht
+849,D,30,Sun,2022-04-24,16:45 (17:45),Fortuna Sittard,,Go Ahead Eag,,Fortuna Sittard Stadion,,Head-to-Head,,2022,04,24,Fortuna Sittard vs Go Ahead Eag
+850,D,31,Fri,2022-04-29,20:00 (21:00),Utrecht,,NEC Nijmegen,,Stadion Galgenwaard,,Head-to-Head,,2022,04,29,Utrecht vs NEC Nijmegen
+851,D,31,Sat,2022-04-30,18:45 (19:45),Ajax,,Zwolle,,Johan Cruyff ArenA,,Head-to-Head,,2022,04,30,Ajax vs Zwolle
+852,D,31,Sat,2022-04-30,21:00 (22:00),Heracles Almelo,,Twente,,Polman Stadion,,Head-to-Head,,2022,04,30,Heracles Almelo vs Twente
+853,D,31,Sun,2022-05-01,12:15 (13:15),Heerenveen,,Cambuur,,Abe Lenstra Stadion,,Head-to-Head,,2022,05,01,Heerenveen vs Cambuur
+854,D,31,Sun,2022-05-01,14:30 (15:30),Fortuna Sittard,,Feyenoord,,Fortuna Sittard Stadion,,Head-to-Head,,2022,05,01,Fortuna Sittard vs Feyenoord
+855,D,31,Sun,2022-05-01,14:30 (15:30),PSV Eindhoven,,Willem II,,Philips Stadion,,Head-to-Head,,2022,05,01,PSV Eindhoven vs Willem II
+856,D,31,Sun,2022-05-01,14:30 (15:30),Go Ahead Eag,,Vitesse,,De Adelaarshorst,,Head-to-Head,,2022,05,01,Go Ahead Eag vs Vitesse
+857,D,31,Sun,2022-05-01,16:45 (17:45),Sparta R'dam,,AZ Alkmaar,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,05,01,Sparta R'dam vs AZ Alkmaar
+858,D,31,Sun,2022-05-01,20:00 (21:00),RKC Waalwijk,,Groningen,,Mandemakers Stadion,,Head-to-Head,,2022,05,01,RKC Waalwijk vs Groningen
+859,D,32,Fri,2022-05-06,20:00 (21:00),Cambuur,,RKC Waalwijk,,Cambuurstadion,,Head-to-Head,,2022,05,06,Cambuur vs RKC Waalwijk
+860,D,32,Sat,2022-05-07,18:45 (19:45),Twente,,Fortuna Sittard,,De Grolsch Veste,,Head-to-Head,,2022,05,07,Twente vs Fortuna Sittard
+861,D,32,Sat,2022-05-07,20:00 (21:00),Willem II,,Heracles Almelo,,Koning Willem II Stadion,,Head-to-Head,,2022,05,07,Willem II vs Heracles Almelo
+862,D,32,Sat,2022-05-07,20:00 (21:00),Zwolle,,Utrecht,,MAC³PARK Stadion,,Head-to-Head,,2022,05,07,Zwolle vs Utrecht
+863,D,32,Sat,2022-05-07,21:00 (22:00),Groningen,,Sparta R'dam,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,05,07,Groningen vs Sparta R'dam
+864,D,32,Sun,2022-05-08,12:15 (13:15),NEC Nijmegen,,Go Ahead Eag,,Goffertstadion,,Head-to-Head,,2022,05,08,NEC Nijmegen vs Go Ahead Eag
+865,D,32,Sun,2022-05-08,14:30 (15:30),Feyenoord,,PSV Eindhoven,,Stadion Feijenoord,,Head-to-Head,,2022,05,08,Feyenoord vs PSV Eindhoven
+866,D,32,Sun,2022-05-08,16:45 (17:45),AZ Alkmaar,,Ajax,,AFAS Stadion,,Head-to-Head,,2022,05,08,AZ Alkmaar vs Ajax
+867,D,32,Sun,2022-05-08,16:45 (17:45),Vitesse,,Heerenveen,,GelreDome,,Head-to-Head,,2022,05,08,Vitesse vs Heerenveen
+868,D,33,Wed,2022-05-11,20:00 (21:00),Go Ahead Eag,,Feyenoord,,De Adelaarshorst,,Head-to-Head,,2022,05,11,Go Ahead Eag vs Feyenoord
+869,D,33,Wed,2022-05-11,20:00 (21:00),Twente,,Groningen,,De Grolsch Veste,,Head-to-Head,,2022,05,11,Twente vs Groningen
+870,D,33,Wed,2022-05-11,20:00 (21:00),PSV Eindhoven,,NEC Nijmegen,,Philips Stadion,,Head-to-Head,,2022,05,11,PSV Eindhoven vs NEC Nijmegen
+871,D,33,Wed,2022-05-11,20:00 (21:00),Ajax,,Heerenveen,,Johan Cruyff ArenA,,Head-to-Head,,2022,05,11,Ajax vs Heerenveen
+872,D,33,Wed,2022-05-11,20:00 (21:00),Cambuur,,Willem II,,Cambuurstadion,,Head-to-Head,,2022,05,11,Cambuur vs Willem II
+873,D,33,Wed,2022-05-11,20:00 (21:00),Fortuna Sittard,,Vitesse,,Fortuna Sittard Stadion,,Head-to-Head,,2022,05,11,Fortuna Sittard vs Vitesse
+874,D,33,Wed,2022-05-11,20:00 (21:00),Sparta R'dam,,Zwolle,,Sparta-Stadion Het Kasteel,,Head-to-Head,,2022,05,11,Sparta R'dam vs Zwolle
+875,D,33,Wed,2022-05-11,20:00 (21:00),Utrecht,,AZ Alkmaar,,Stadion Galgenwaard,,Head-to-Head,,2022,05,11,Utrecht vs AZ Alkmaar
+876,D,33,Wed,2022-05-11,20:00 (21:00),RKC Waalwijk,,Heracles Almelo,,Mandemakers Stadion,,Head-to-Head,,2022,05,11,RKC Waalwijk vs Heracles Almelo
+877,D,34,Sun,2022-05-15,14:30 (15:30),Feyenoord,,Twente,,Stadion Feijenoord,,Head-to-Head,,2022,05,15,Feyenoord vs Twente
+878,D,34,Sun,2022-05-15,14:30 (15:30),Zwolle,,PSV Eindhoven,,MAC³PARK Stadion,,Head-to-Head,,2022,05,15,Zwolle vs PSV Eindhoven
+879,D,34,Sun,2022-05-15,14:30 (15:30),Vitesse,,Ajax,,GelreDome,,Head-to-Head,,2022,05,15,Vitesse vs Ajax
+880,D,34,Sun,2022-05-15,14:30 (15:30),NEC Nijmegen,,Fortuna Sittard,,Goffertstadion,,Head-to-Head,,2022,05,15,NEC Nijmegen vs Fortuna Sittard
+881,D,34,Sun,2022-05-15,14:30 (15:30),Heerenveen,,Go Ahead Eag,,Abe Lenstra Stadion,,Head-to-Head,,2022,05,15,Heerenveen vs Go Ahead Eag
+882,D,34,Sun,2022-05-15,14:30 (15:30),AZ Alkmaar,,RKC Waalwijk,,AFAS Stadion,,Head-to-Head,,2022,05,15,AZ Alkmaar vs RKC Waalwijk
+883,D,34,Sun,2022-05-15,14:30 (15:30),Willem II,,Utrecht,,Koning Willem II Stadion,,Head-to-Head,,2022,05,15,Willem II vs Utrecht
+884,D,34,Sun,2022-05-15,14:30 (15:30),Heracles Almelo,,Sparta R'dam,,Polman Stadion,,Head-to-Head,,2022,05,15,Heracles Almelo vs Sparta R'dam
+885,D,34,Sun,2022-05-15,14:30 (15:30),Groningen,,Cambuur,,Hitachi Capital Mobility Stadion,,Head-to-Head,,2022,05,15,Groningen vs Cambuur
+886,SPL,19,Sat,2022-02-05,,Al-Fayha,,Al-Hilal,,Al Majma'ah Sport City,,,Match Postponed,2022,02,05,Al-Fayha vs Al-Hilal
+887,SPL,20,Sun,2022-02-13,18:10,Al-Ettifaq,,Al-Hilal,,Prince Mohamed bin Fahd Stadium,,,Match Postponed,2022,02,13,Al-Ettifaq vs Al-Hilal
