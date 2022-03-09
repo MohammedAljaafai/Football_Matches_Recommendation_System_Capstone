@@ -31,7 +31,7 @@ The results are shown in the Knn-Recomender file.
 ### **Data Source:**
 All of the datasets were collected from this website:
 https://fbref.com/en/comps/70/Saudi-Professional-League-Stats
-### **Other Resurces:**
+### **Other Resources:**
 https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
 https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbor-algorithms
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
