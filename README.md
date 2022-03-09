@@ -1,6 +1,6 @@
 # Football_Matches_Recommendation_System_Capstone
 ### **Introduction:**
-This system receives inputs from the user, and these inputs are the today's date and gives a list of the matches in that date from the following leagues, the English, German, Spanish, Italic, French, Portuguese, Dutch , and Saudi leagues. The other input the prefered game for the user from this list. The output will be football mathces that are arrnged based on distance (Similarity) from the prefered game. (A capstone project).
+This system receives two inputs from the user, and the first input is today's date and returns a list of the matches in that date from the following leagues, the English, German, Spanish, Italic, French, Portuguese, Dutch , and Saudi leagues. The second input is the prefered game for the user choosen from this list. The output will be recommended football mathces that are arrnged based on distance (Similarity) from the prefered game. (A capstone project).
 The Recommender system will recommend 6 games with an order from the closest distance the the furthest distance.
 ## **Football Mathces Datasets**
 
