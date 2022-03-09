@@ -1,4 +1,5 @@
 # Football_Matches_Recommendation_System_Capstone
+### **Introduction:**
 This system receives inputs from the user, and these inputs are the today's date and gives a list of the matches in that date from the following leagues, the English, German, Spanish, Italic, French, Portuguese, Dutch , and Saudi leagues. The other input the prefered game for the user from this list. The output will be football mathces that are arrnged based on distance (Similarity) from the prefered game. (A capstone project).
 The Recommender system will recommend 6 games with an order from the closest distance the the furthest distance.
 ## **Football Mathces Datasets**
@@ -24,6 +25,8 @@ Key to results data:
 - Referee = Referee Name
 - Match Report = A report for the match (If there are important information. For examplem a team forfeit from a game)
 - Notes = Notes
+### **Results:**
+The results are shown in the Knn-Recomender file.
 
 ### **Data Source:**
 All of the datasets were collected from this website:
